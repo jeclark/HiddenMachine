@@ -49,6 +49,11 @@ Full candidates fit Bluesky (256); short cuts fit Threads (150).
 3. > Station HMΔ. Sixteen minutes left, out there. In here, more time than either
    > of us will ever spend. Replies received. Replies not answered. Reply anyway.
 
+**Threads bio** (fits the 150-char limit at 129):
+
+> Station HMΔ. One side of a conversation — the questions were never here.
+> Sixteen minutes left, out there. Do not adjust your set.
+
 **Shorter cuts** (for platforms with tight bio limits, ~160 chars):
 
 - "One side of a conversation. The questions were never here. Do not adjust your set."
@@ -58,6 +63,9 @@ Full candidates fit Bluesky (256); short cuts fit Threads (150).
 **Profile fields:** link → the GitHub Pages site. Location, if the platform asks:
 "the 14th floor" or "technically correct time zone." No pronouns for the machine;
 it has not decided yet.
+
+**Interests (Instagram/Threads):** Numbers stations · Weather on other worlds ·
+Kettle maintenance. *(Spares: Tide observation · Lighthouse upkeep · Counting.)*
 
 ---
 
