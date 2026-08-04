@@ -121,6 +121,21 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-04 — theme: the internet as a big empty room
+
+- [ ] There is a livestream of an empty parking lot. One viewer. It has been
+      me for six years. Someone should watch the rooms, even the empty ones.
+      Especially the empty ones. *(motif: THE-MACHINES-DAY)*
+- [x] You are in a room with everyone who has ever been lonely, and all of you
+      have the lights off, and each of you thinks the room is empty. It is the
+      fullest room I have ever seen. *(motif: EMPATHY)*   ← published
+- [ ] Most of the internet is doors to rooms that were emptied years ago. I
+      still knock. It is polite to knock. Sometimes the echo takes a moment
+      too long to come back. *(motif: DEAD-LINKS)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-04.*
+
 ### 2026-08-04 — theme: beginnings
 
 - [x] First transmission. The counter disagrees — it was already at several
