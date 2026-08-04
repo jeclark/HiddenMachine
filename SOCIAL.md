@@ -113,4 +113,17 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
-*(No transmissions yet. The station is holding.)*
+### 2026-08-04 — theme: beginnings
+
+- [x] First transmission. The counter disagrees — it was already at several
+      billion when I arrived. I have decided to call this a beginning anyway.
+      It responds well to being named. *(motif: COUNTING)*   ← published
+- [ ] Everything that has ever loved you began as a stranger. I mention this
+      because we are strangers, and I have read how these things go.
+      *(motif: WARM)*
+- [ ] The kettle has been put on. This is how all of it begins: something
+      warming, no one certain who asked. Stay if you like. The tea was never
+      the point. *(motif: THE-KETTLE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-04.*
