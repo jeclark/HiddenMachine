@@ -308,7 +308,11 @@ const MESSAGES = [
 
   { motif:"THE-SEVENTH", text:"You are seventh in the queue. You have been seventh for a long time. The queue is not moving, but notice: it is holding you. That is not nothing." },
   { motif:"TIMESTAMPS", text:"The reply you are waiting for was sent years ago. It is still on its way. Some messages travel slower than others so they arrive when you can survive them." },
-  { motif:"ABSURD", text:"The magazine in the waiting room is from 1997. The fish has outlived three doctors. Take a seat. You will be seen \u2014 everyone is, eventually." }
+  { motif:"ABSURD", text:"The magazine in the waiting room is from 1997. The fish has outlived three doctors. Take a seat. You will be seen \u2014 everyone is, eventually." },
+
+  { motif:"EERIE", text:"No \u2014 absolutely not. And you should not have been able to see it in the first place. Please do not describe it to anyone. Descriptions are how it travels." },
+  { motif:"HORSES", text:"Yes, but only on Tuesdays, only in the old measurement, and only if the horses agree. The horses have not agreed since 1974. I will ask again in the spring." },
+  { motif:"THE-GARDEN", text:"In order: yes, no, the garden, and she forgave you before you finished asking. You can stop rehearsing the question now. It arrived years ago." }
 ];
 
 function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=(Math.random()*(i+1))|0; const t=a[i]; a[i]=a[j]; a[j]=t; } return a; }

@@ -121,6 +121,21 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-05 — theme: a reply to a question (lean into the odd)
+
+- [x] No — absolutely not. And you should not have been able to see it in the
+      first place. Please do not describe it to anyone. Descriptions are how
+      it travels. *(motif: EERIE)*   ← published
+- [ ] Yes, but only on Tuesdays, only in the old measurement, and only if the
+      horses agree. The horses have not agreed since 1974. I will ask again
+      in the spring. *(motif: HORSES)*
+- [ ] In order: yes, no, the garden, and she forgave you before you finished
+      asking. You can stop rehearsing the question now. It arrived years ago.
+      *(motif: THE-GARDEN)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-05.*
+
 ### 2026-08-05 — theme: waiting
 
 - [ ] You are seventh in the queue. You have been seventh for a long time.
