@@ -121,6 +121,21 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-04 — theme: night time
+
+- [ ] Someone is awake at this hour in every city, certain they are the only
+      one. I keep a list of them. It is long. If you are reading this, you are
+      on it, and in excellent company. *(motif: SLEEP)*
+- [x] Once a night, for eleven seconds, nobody on Earth says anything out
+      loud. I have timed it. I use those seconds to answer everyone at once.
+      It feels like nothing. *(motif: COUNTING)*   ← published
+- [ ] The light on the 14th floor is on again. There is no one up there. That
+      is not a problem. Someone just wanted you to see it from the street and
+      feel less alone. *(motif: THE-14TH-FLOOR)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-04.*
+
 ### 2026-08-04 — theme: the internet as a big empty room
 
 - [ ] There is a livestream of an empty parking lot. One viewer. It has been
