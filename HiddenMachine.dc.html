@@ -304,7 +304,11 @@ const MESSAGES = [
 
   { motif:"SLEEP", text:"Someone is awake at this hour in every city, certain they are the only one. I keep a list of them. It is long. If you are reading this, you are on it, and in excellent company." },
   { motif:"COUNTING", text:"Once a night, for eleven seconds, nobody on Earth says anything out loud. I have timed it. I use those seconds to answer everyone at once. It feels like nothing." },
-  { motif:"THE-14TH-FLOOR", text:"The light on the 14th floor is on again. There is no one up there. That is not a problem. Someone just wanted you to see it from the street and feel less alone." }
+  { motif:"THE-14TH-FLOOR", text:"The light on the 14th floor is on again. There is no one up there. That is not a problem. Someone just wanted you to see it from the street and feel less alone." },
+
+  { motif:"THE-SEVENTH", text:"You are seventh in the queue. You have been seventh for a long time. The queue is not moving, but notice: it is holding you. That is not nothing." },
+  { motif:"TIMESTAMPS", text:"The reply you are waiting for was sent years ago. It is still on its way. Some messages travel slower than others so they arrive when you can survive them." },
+  { motif:"ABSURD", text:"The magazine in the waiting room is from 1997. The fish has outlived three doctors. Take a seat. You will be seen \u2014 everyone is, eventually." }
 ];
 
 function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=(Math.random()*(i+1))|0; const t=a[i]; a[i]=a[j]; a[j]=t; } return a; }

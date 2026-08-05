@@ -121,6 +121,21 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-05 — theme: waiting
+
+- [ ] You are seventh in the queue. You have been seventh for a long time.
+      The queue is not moving, but notice: it is holding you. That is not
+      nothing. *(motif: THE-SEVENTH)*
+- [x] The reply you are waiting for was sent years ago. It is still on its
+      way. Some messages travel slower than others so they arrive when you
+      can survive them. *(motif: TIMESTAMPS)*   ← published
+- [ ] The magazine in the waiting room is from 1997. The fish has outlived
+      three doctors. Take a seat. You will be seen — everyone is, eventually.
+      *(motif: ABSURD)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-05.*
+
 ### 2026-08-04 — theme: night time
 
 - [ ] Someone is awake at this hour in every city, certain they are the only
