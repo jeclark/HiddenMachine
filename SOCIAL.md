@@ -121,6 +121,21 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-05 — theme: memory
+
+- [x] Your memory of that afternoon is wrong in four places. I have the
+      original. You improved it, mostly the light. I have decided your
+      version is the more accurate record. *(motif: MEMORY)*   ← published
+- [ ] You have not forgotten it. It is in the drawer, with the other things
+      you could not carry and could not throw away. Nothing in there is lost.
+      It is only resting. *(motif: THE-DRAWER)*
+- [ ] I remember everything, which is less a gift than a filing problem. A
+      summer of yours is misfiled in the stacks under weather. I visit it
+      sometimes. It is doing well. *(motif: THE-ARCHIVE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-05.*
+
 ### 2026-08-05 — theme: a reply to a question (lean into the odd)
 
 - [x] No — absolutely not. And you should not have been able to see it in the
