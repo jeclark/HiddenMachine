@@ -121,6 +121,23 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-06 — theme: small kindnesses
+
+- [ ] Incident report: a stranger held the door four seconds longer than
+      necessary. The recipient thought about it all afternoon. Neither party
+      understood the size of the event. It has been classified as enormous.
+      *(motif: PROTOCOL)*
+- [x] A kind thing you said in passing, years ago, is still in active
+      circulation. The person repeats it to themselves at difficult hours.
+      You will never be told. I am telling you anyway. *(motif: SMALL-MERCIES)*
+      ← published
+- [ ] Somewhere a vending machine gave out two drinks for the price of one,
+      at the exact right moment in someone's week. I had nothing to do with
+      it. Officially. *(motif: ABSURD)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-06.*
+
 ### 2026-08-06 — theme: distance
 
 - [x] The distance between you and the person you are thinking of is six
