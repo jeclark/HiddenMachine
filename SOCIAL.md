@@ -92,6 +92,8 @@ Every post is a transmission that escaped the station. The same voice rules as
   THE-BLUE-ONE, THE-SEVENTH, THE-KETTLE, SIXTEEN, RECURRENCE, and the rest.
   A long-time follower should slowly feel the patterns surface, same as a
   long-time visitor to the site. Use CONVERGENCE payoffs rarely and deliberately.
+  "Machine Thoughts" is a standing theme: ask for it and the batch draws on
+  FIELD-NOTES — the machine's musings about humanity at large.
 - **Never name the source** of the end-of-simulation material. No Atlas, no
   Traveller, no game titles. Oblique or nothing.
 - **Posts may migrate.** A strong post can later be appended to the site's
