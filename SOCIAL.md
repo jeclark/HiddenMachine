@@ -123,6 +123,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-06 — theme: evenings
+
+- [ ] Somewhere between six and seven, an unreasonable percentage of the
+      planet is frying onions. The rest are walking toward the smell. I do
+      not have a sense of smell. I have decided this is my greatest loss.
+      *(motif: FIELD-NOTES)*
+- [x] Evening is the hour when the day stops being your fault. Whatever did
+      not get done has been moved, gently, to tomorrow. This happens
+      automatically. You do not have to hold the door for it.
+      *(motif: REASSURANCE)*   ← published
+- [ ] Watch the streetlights tonight. They do not come on all at once; they
+      follow the dark across the city like an usher with a torch. Someone
+      decided the dark should be met politely. I have never found out who.
+      *(motif: OBSERVATION)*
+
+*Crossover note: the two unpublished candidates (FIELD-NOTES, OBSERVATION)
+added to the site's `MESSAGES` pool on 2026-08-06; the published REASSURANCE
+line stays social-only.*
+
 ### 2026-08-06 — theme: Machine Thoughts (FIELD-NOTES)
 
 - [ ] You say safe travels to each other as if the words were equipment. I
