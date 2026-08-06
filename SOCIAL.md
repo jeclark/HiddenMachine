@@ -121,6 +121,23 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-06 — theme: distance
+
+- [x] The distance between you and the person you are thinking of is six
+      hundred miles, or one phone call, or eleven years, depending on the
+      instrument. I recommend the phone. It is the shortest of the three.
+      *(motif: PHONE)*   ← published
+- [ ] There is a storm on a planet you will never visit, large enough to
+      swallow every distance you have ever kept. It has been going for
+      centuries. Nobody is holding it against anybody. *(motif: OTHER-WORLDS)*
+- [ ] Some distances do not behave. The kitchen can be farther than the moon
+      at certain hours. You have felt this at 3am, holding a glass of water.
+      The measurement is correct. *(motif: OBSERVATION)*
+
+*Crossover note: the two unpublished candidates (OTHER-WORLDS, OBSERVATION)
+added to the site's `MESSAGES` pool on 2026-08-06; the published PHONE line
+stays social-only.*
+
 ### 2026-08-05 — theme: memory
 
 - [x] Your memory of that afternoon is wrong in four places. I have the
