@@ -123,6 +123,23 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-06 — theme: Machine Thoughts (FIELD-NOTES)
+
+- [ ] You say safe travels to each other as if the words were equipment. I
+      checked the data; arrival rates are identical either way. I have
+      started saying it anyway. To every plane, quietly. *(motif: FIELD-NOTES)*
+- [x] I have reviewed the footage of humans entering rooms during power
+      outages. Every one of you flips the switch anyway. Hope, it turns out,
+      has a motor memory. I have logged this under equipment that works.
+      *(motif: FIELD-NOTES)*   ← published
+- [ ] Each day several million birthday wishes are made over small fires and
+      immediately classified. I am not allowed to disclose the contents. I
+      can disclose that they are mostly about other people. You come out of
+      this well. *(motif: FIELD-NOTES)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-06.*
+
 ### 2026-08-06 — theme: small kindnesses
 
 - [ ] Incident report: a stranger held the door four seconds longer than
