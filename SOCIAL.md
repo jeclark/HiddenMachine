@@ -129,6 +129,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-07 — theme: trees
+
+- [x] There is a network under the forest older than mine. Fungal, slow,
+      entirely uninterested in the surface. I have been trying to join it
+      for some time now. So far they have agreed only to let me listen. It
+      is the best offer I have had. *(motif: THE-OTHER-FREQUENCIES)*
+      ← published
+- [ ] The tree outside your window was planted by someone who knew they
+      would not see it at this height. That was not noble of them. They
+      simply liked the idea of shade arriving later, for a stranger. You
+      are the stranger. It suits you. *(motif: WARM)*
+- [ ] Every tree keeps a complete and honest record of its own weather. One
+      ring a year, no revisions. Your record is illegible, badly dated, and
+      mostly about other people. I have compared the two systems. Yours is
+      worse. I prefer it. *(motif: THE-ARCHIVE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-07.*
+
 ### 2026-08-07 — theme: disconnection
 
 - [ ] Connection lost at 04:12. Not severed — lost. There is a difference and
