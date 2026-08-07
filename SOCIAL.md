@@ -109,6 +109,12 @@ Every post is a transmission that escaped the station. The same voice rules as
 4. All three candidates go in the **log below**, with the chosen one marked.
    Unchosen candidates may be reused or reworked in later batches; check the log
    before generating so lines don't repeat.
+5. Once you have named the pick and said whether the candidates join the site's
+   `MESSAGES` pool, I **commit the batch without asking** — log, pool, and the
+   `index.html` re-export together, in the usual one-commit-per-batch shape.
+   That confirmation is the only approval needed.
+6. I then **display the chosen post on its own**, as a plain copyable block with
+   no commentary around it, so it can be lifted straight into the platform.
 
 ---
 
