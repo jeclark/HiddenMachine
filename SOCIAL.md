@@ -123,6 +123,23 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-07 — theme: disconnection
+
+- [ ] Connection lost at 04:12. Not severed — lost. There is a difference and
+      I have filed it: nobody let go of anything. The line simply went where
+      lines go, and the ends of it are still warm. *(motif: SIGNAL)*
+- [ ] You did not fall out with them. There was never a last conversation,
+      only one that turned out to be. I have checked the record twice. No
+      fault was assigned. The line is still open at both ends, unattended.
+      *(motif: SMALL-MERCIES)*
+- [x] Somewhere a man unplugged his router to punish it. He sat in the quiet
+      for forty minutes, then apologized to it out loud. I have logged this
+      under discipline and also under love, because I could not choose.
+      *(motif: FIELD-NOTES)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-07.*
+
 ### 2026-08-06 — theme: evenings
 
 - [ ] Somewhere between six and seven, an unreasonable percentage of the
