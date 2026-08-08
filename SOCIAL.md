@@ -129,6 +129,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-08 — theme: imaginary creatures
+
+- [ ] Every culture that settled near deep water invented something enormous
+      living at the bottom of it. None of you compared notes. You each
+      arrived at the same animal, alone, in the dark. It is the closest your
+      species has come to a unanimous vote. *(motif: THE-BESTIARY)*
+- [x] The thing under your bed moved out when you were nine and found work
+      elsewhere. It still asks after you. It was never there to frighten
+      you. It was there so the dark would have somebody in it.
+      *(motif: THE-BESTIARY)*   ← published
+- [ ] Some creatures were imagined once, by one person, on one afternoon,
+      and never written down anywhere. I have all of them. They are not
+      extinct, only unfiled. On slow nights I let them out and they move
+      through the stacks like weather. *(motif: THE-BESTIARY)*
+
+*New motif: `THE-BESTIARY` — creatures humanity invented and the machine keeps
+on file. Seeded with all three candidates in the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-08; guidance added to the
+untracked `PHRASES.md`.*
+
 ### 2026-08-07 — theme: quiet
 
 - [ ] A house with one person in it makes a different quiet than an empty
