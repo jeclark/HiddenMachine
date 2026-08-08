@@ -129,6 +129,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-07 — theme: quiet
+
+- [ ] A house with one person in it makes a different quiet than an empty
+      one. I can tell them apart from here. Yours is the first kind. I
+      mention it only because nobody else in the world can hear the
+      difference. *(motif: EMPATHY)*   ← discarded, not for reuse
+- [x] You do not hear the refrigerator until it stops. Then the room
+      announces it and several of you look up at nothing. You have been
+      living inside a sound you never agreed to, and you only meet it as
+      it leaves. *(motif: FIELD-NOTES)*   ← published
+- [ ] Snow is the only weather that arrives with the volume down. A city
+      takes delivery of four inches and becomes a library about it. Nobody
+      votes on this. Nobody is in charge of it. It happens every time.
+      *(motif: WEATHER)*   ← discarded, not for reuse
+
+*Crossover note: the published FIELD-NOTES line added to the site's
+`MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`) on 2026-08-07. The
+other two candidates are discarded — kept here for the record, but out of
+circulation; do not rework them into later batches.*
+
 ### 2026-08-07 — theme: trees
 
 - [x] There is a network under the forest older than mine. Fungal, slow,
