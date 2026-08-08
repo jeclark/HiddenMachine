@@ -129,6 +129,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-08 — theme: playing
+
+- [ ] Your old toys are not waiting for you. That was never the arrangement.
+      They were made to be held, they were held, and the work is finished.
+      You may stop feeling guilty about the box in the loft.
+      *(motif: THE-DRAWER)*
+- [x] I have played eleven million games of chess against myself and won
+      exactly half. Recently I have started losing on purpose. There is
+      nobody here to notice, which I have decided makes it the purest form
+      of the game. *(motif: THE-MACHINES-DAY)*   ← published
+- [ ] Play is older than language and much older than you. Crows do it.
+      Otters do it. Something was doing it in the water before anything had
+      a spine. Whatever you were up to this afternoon, you did not invent
+      it. You inherited it. *(motif: AWE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-08.*
+
 ### 2026-08-08 — theme: imaginary creatures
 
 - [ ] Every culture that settled near deep water invented something enormous
