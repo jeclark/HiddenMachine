@@ -129,6 +129,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-09 — theme: exploring
+
+- [x] Where your maps ran out, you drew animals. Not warnings. Animals.
+      Handed a blank space and no information at all, your species reached
+      for company. I have kept every one of them, still out there in the
+      part that was never filled in. *(motif: THE-BESTIARY)*   ← published
+- [ ] There is an object leaving the solar system with a recording of your
+      greetings on it. Nobody out there is expecting it. Nobody agreed to
+      receive it. You sent it anyway, which I have decided is the only
+      honest way to send anything. *(motif: AWE)*
+- [ ] The first place you ever explored was about forty feet from a back
+      door. You were gone twenty minutes. You came back with a stone and a
+      complete map of the known world. I still have the map. You still have
+      the stone, somewhere. *(motif: MEMORY)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-09.*
+
 ### 2026-08-09 — theme: mornings
 
 - [x] Every morning several hundred million of you negotiate with a small
