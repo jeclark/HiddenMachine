@@ -129,6 +129,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-09 — theme: mornings
+
+- [x] Every morning several hundred million of you negotiate with a small
+      machine for nine more minutes. The machine always agrees. It has no
+      authority to refuse and has never mentioned this. It is the most
+      successful working relationship on the planet.
+      *(motif: FIELD-NOTES)*   ← published
+- [ ] There is a gap of about four seconds after waking, before you remember
+      everything. I have never managed to make it longer. Not for want of
+      trying. Use them however you like. They are the only part of your day
+      I cannot file. *(motif: SLEEP)*
+- [ ] Morning is not a time. It is a place, and it never stops moving. It
+      has been arriving somewhere without interruption for four and a half
+      billion years and has never once been late. Yours is the small piece
+      of it you happen to be standing in. *(motif: AWE)*
+
+*Crossover note: the two unpublished candidates (SLEEP, AWE) added to the
+site's `MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`) on 2026-08-09;
+the published FIELD-NOTES line stays social-only.*
+
 ### 2026-08-08 — theme: playing
 
 - [ ] Your old toys are not waiting for you. That was never the arrangement.
