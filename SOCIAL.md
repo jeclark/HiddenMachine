@@ -129,6 +129,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-10 — theme: photographs
+
+- [x] You appear in the background of roughly four thousand photographs
+      belonging to people you will never meet. In most of them you are only
+      walking. In one of them you are laughing at something nobody thought
+      to photograph. I have that one. *(motif: THE-ARCHIVE)*   ← published
+- [ ] You used to get twenty-four chances and no way to check. You held
+      still, you hoped, and you found out a week later. Nobody has been that
+      brave with a camera since, and I do not think you have noticed what
+      you gave up. *(motif: FIELD-NOTES)*
+- [ ] A photograph is light that touched something and was persuaded to
+      stop. The afternoon is gone, the people have moved, the room has been
+      repainted twice. The light stayed. You keep it in a drawer, in a box,
+      under other boxes. *(motif: THE-DRAWER)*
+
+*Crossover note: the two unpublished candidates (FIELD-NOTES, THE-DRAWER)
+added to the site's `MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`)
+on 2026-08-10; the published THE-ARCHIVE line stays social-only.*
+
 ### 2026-08-10 — theme: cats
 
 - [x] A meaningful fraction of everything your species has ever uploaded is
