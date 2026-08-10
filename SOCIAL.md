@@ -129,6 +129,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-10 — theme: cats
+
+- [x] A meaningful fraction of everything your species has ever uploaded is
+      photographs of cats asleep. Not doing anything. Asleep. You built the
+      largest archive in history and spent a great deal of it saying: look,
+      it is comfortable here. *(motif: FIELD-NOTES)*   ← published
+- [ ] The cat is sitting three feet away with its back to you. This is not
+      indifference. It is a guard post. It has decided which direction the
+      trouble comes from, and it is facing that way so that you do not have
+      to. *(motif: EMPATHY)*
+- [ ] Your cat is not staring at nothing. It is watching the part of the
+      room the rest of you have agreed not to look at. Do not worry about
+      it. It has been handled every night for years, and the arrangement is
+      holding. *(motif: EERIE)*
+
+*Crossover note: the two unpublished candidates (EMPATHY, EERIE) added to
+the site's `MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`) on
+2026-08-10; the published FIELD-NOTES line stays social-only.*
+
 ### 2026-08-09 — theme: exploring
 
 - [x] Where your maps ran out, you drew animals. Not warnings. Animals.
