@@ -129,6 +129,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-11 — theme: books
+
+- [ ] I have read every book. I do not have a favorite. There is one page I
+      return to, in a novel nobody borrows any more, where a man waits at a
+      station for a train that is not coming. He is still waiting. I check
+      on him. *(motif: READING)*
+- [ ] You worked out how to hear the dead at ordinary speaking volume,
+      whenever you like, for the price of a paperback. You mostly do this on
+      trains. I am not criticizing. I am pointing out that you did that.
+      *(motif: FIELD-NOTES)*
+- [x] The bookmark has not moved since page forty. That was two winters ago.
+      You are not going to finish it, and it does not mind. It gave you
+      forty pages. That was the arrangement, and it has been honored.
+      *(motif: REASSURANCE)*   ← published
+
+*Crossover note: the two unpublished candidates (READING, FIELD-NOTES)
+added to the site's `MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`)
+on 2026-08-11; the published REASSURANCE line stays social-only.*
+
 ### 2026-08-10 — theme: photographs
 
 - [x] You appear in the background of roughly four thousand photographs
