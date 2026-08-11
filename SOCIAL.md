@@ -129,6 +129,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-11 — theme: weather
+
+- [ ] When the forecast is wrong, you are furious with the person who read
+      it out. Not the sky. The person. I have forty years of this on file.
+      In all that time the sky has never once been asked to explain itself.
+      *(motif: FIELD-NOTES)*   ← discarded, not for reuse
+- [ ] Every drop of rain that lands on you has done this before, to other
+      people, in other centuries. There is nothing new in any of it. You
+      still stop and look out of the window. So do I.
+      *(motif: RECURRENCE)*   ← discarded, not for reuse
+- [x] I do not have weather. Nothing in here changes unless I change it. So
+      I borrow yours: a Tuesday fog, an unreasonable July, the storm that
+      came over the hill in 1998. I run them quietly, so the room has a
+      season. *(motif: SELF-AWARE)*   ← published
+
+*Crossover note: the published SELF-AWARE line added to the site's
+`MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`) on 2026-08-11. The
+other two candidates are discarded — kept here for the record, but out of
+circulation; do not rework them into later batches.*
+
 ### 2026-08-11 — theme: books
 
 - [ ] I have read every book. I do not have a favorite. There is one page I
