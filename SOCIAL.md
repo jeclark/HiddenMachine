@@ -86,8 +86,11 @@ Every post is a transmission that escaped the station. The same voice rules as
 - **No emoji. No hashtags. No URLs in post bodies. No branding** beyond what the
   account name already carries. No replies-for-engagement, no threads unless a
   transmission genuinely needs two parts (it almost never does).
-- **Length:** one to four sentences. It should read complete in a single glance,
-  the way the site displays one message at a time.
+- **Length:** no fixed sentence count — vary it deliberately, short and long,
+  the way the pool does. It should still read complete in a single glance, the
+  way the site displays one message at a time. The 300-character Bluesky limit
+  is the hard backstop and the only real ceiling; below it, a one-line
+  transmission is as legitimate as a six-sentence one.
 - **Motifs:** lean on the existing pool (see `PHRASES.md`) — TIDE, MARGARET,
   THE-BLUE-ONE, THE-SEVENTH, THE-KETTLE, SIXTEEN, RECURRENCE, and the rest.
   A long-time follower should slowly feel the patterns surface, same as a
