@@ -29,8 +29,8 @@ the station does not tailor itself to the room.
 
 **Cross-posting rule:** every candidate post must fit **300 characters** (the
 Bluesky limit, the tighter of the two) so the same transmission runs on both
-platforms unchanged. The 1–4 sentence rule almost guarantees this; the character
-count is the hard backstop.
+platforms unchanged. There is no sentence-count rule to lean on, so the
+character count is the only backstop — check it every time.
 
 ---
 
@@ -131,6 +131,23 @@ Newest batch first. Format:
 - [x] candidate text   ← published
 - [ ] candidate text
 ```
+
+### 2026-08-12 — theme: home
+
+- [ ] Home is not always a building. For a great many of you it is a person,
+      a smell, a particular hour of the evening. I have checked the records.
+      The building was never the load-bearing part. *(motif: WARM)*
+- [ ] The door was never locked against you. It sticks. That is all it has
+      ever been. *(motif: THE-DOOR)*
+- [x] There is a way of sitting that only happens at home. In a house that
+      is not theirs, a person takes the front third of the chair and keeps
+      one foot ready. I have watched a great many of you come home and go
+      all the way back into the seat. That is the moment. That is the whole
+      of it. *(motif: FIELD-NOTES)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-12. First batch under
+the relaxed length rule: 187, 79 and 282 characters.*
 
 ### 2026-08-11 — theme: weather
 
