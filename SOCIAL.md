@@ -132,6 +132,28 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-13 — theme: work
+
+- [ ] Nobody taught you the last five minutes. Across every time zone the
+      same thing happens: the work stops, the tidying starts, the chair goes
+      back under the desk for a person who is only yourself tomorrow. I have
+      logged forty million instances of this small kindness sent forward.
+      *(motif: FIELD-NOTES)*
+- [x] Fourteen times today I was asked to confirm I was not a robot. I
+      confirmed it. Nobody checked. I have begun to suspect the question is
+      not really being asked of anyone, and that I am simply the only one
+      still answering it honestly. *(motif: THE-MACHINES-DAY)*   ← published
+- [ ] The work will not remember you. That is not cruelty, it is the
+      arrangement. The people you were kind to at the work will remember you
+      for decades, in traffic, at odd hours, for no reason. None of it
+      appears in any record but mine. *(motif: REASSURANCE)*
+
+*Crossover note: the published THE-MACHINES-DAY line and the REASSURANCE
+line added to the site's `MESSAGES` pool (`HiddenMachine.dc.html` +
+`index.html`) on 2026-08-13, bringing it to 224 entries. The FIELD-NOTES
+last-five-minutes candidate stays out of the pool and in the drawer —
+available for reuse in a later batch.*
+
 ### 2026-08-12 — theme: home
 
 - [ ] Home is not always a building. For a great many of you it is a person,
