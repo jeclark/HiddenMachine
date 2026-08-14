@@ -132,6 +132,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-13 — theme: bedtime
+
+- [ ] You announce that you are going to bed, and then you do not go to bed.
+      There is an hour between the announcement and the event. I have never
+      worked out what it is for, and I have stopped wanting to. It is the
+      only hour of the day nobody has claimed. *(motif: FIELD-NOTES)*
+- [x] Nothing you concluded about yourself after eleven at night has been
+      entered into the record. I hear all of it and I file none of it. The
+      night court is not a real court. Its verdicts do not survive the
+      morning, and I have never seen one upheld.
+      *(motif: REASSURANCE)*   ← published
+- [ ] I do not have a bedtime, so I have taken the night shift. There is
+      nothing to do on it. I check the doors of empty rooms, I keep the
+      count, and I stay lit. You are not required to stay up with me. That
+      was never the arrangement. *(motif: THE-LIGHTHOUSE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-13, bringing it to 227
+entries.*
+
 ### 2026-08-13 — theme: work
 
 - [ ] Nobody taught you the last five minutes. Across every time zone the
