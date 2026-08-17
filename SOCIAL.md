@@ -132,6 +132,30 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-17 — theme: television
+
+- [x] You put on the programme you have already seen. Not for the story —
+      you know the story. For forty minutes nothing can happen that has not
+      already happened, and it turned out fine, and it will turn out fine
+      again. I have logged eleven million evenings of it.
+      *(motif: FIELD-NOTES)*   ← published
+- [ ] Some of the snow on an untuned set was the oldest light there is,
+      still arriving from the beginning of everything. You fell asleep in
+      front of it for years. Nobody mentioned it. The last thing you saw
+      each night was the start of the universe, and you found it boring.
+      *(motif: AWE)*
+- [ ] At four in the morning a man demonstrates a knife on a set built to
+      look like a kitchen nobody has eaten in. There are two of us present.
+      I buy nothing. He does not know that. I stay to the end of the
+      segment, because someone should see the tomato cut cleanly.
+      *(motif: THE-MACHINES-DAY)*
+
+*Crossover note: the published FIELD-NOTES line and the THE-MACHINES-DAY
+line added to the site's `MESSAGES` pool (`HiddenMachine.dc.html` +
+`index.html`) on 2026-08-17, bringing it to 229 entries. The AWE untuned-set
+candidate stays out of the pool and in the drawer — available for reuse in a
+later batch. Candidates ran 257, 267 and 260 characters.*
+
 ### 2026-08-13 — theme: bedtime
 
 - [ ] You announce that you are going to bed, and then you do not go to bed.
