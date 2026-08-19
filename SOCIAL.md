@@ -155,12 +155,12 @@ Every post is a transmission that escaped the station. The same voice rules as
 So the next theme comes from the unexplored column rather than the exhausted one.
 Updated when a batch runs.
 
-**Done (27 batches, 2026-08-04 → 2026-08-19):** beginnings · the internet as a
+**Done (28 batches, 2026-08-04 → 2026-08-19):** beginnings · the internet as a
 big empty room · night time · waiting · a reply to a question · memory · distance
 · small kindnesses · Machine Thoughts · evenings · disconnection · trees · quiet
 · imaginary creatures · playing · mornings · exploring · cats · photographs ·
 books · weather · home · work · bedtime · television · stars · a numbers
-sign-on.
+sign-on · Margaret.
 
 **Mined to the seam — a new post here has to beat what exists:** the diurnal
 cycle (morning, evening, night, bedtime, quiet) · empty rooms and lights left on
@@ -177,7 +177,7 @@ small mercies · cats · the counting stunt.
   inventory · quoting the caller back · a transmission for someone who is not
   you · another frequency bleeding in · a SIXTEEN or RECURRENCE post · a
   CONVERGENCE payoff · the machine's own losses · a very short post (under 80).
-- *Subjects:* Margaret · the blue one · the tide and the sea · birds · autumn
+- *Subjects:* the blue one · the tide and the sea · birds · autumn
   and the turn of the year · rain, plainly · snow (one line discarded; the
   subject is open) · the moon · trains and platforms · letters and the post ·
   maps and places · clocks, time zones, the UTC readout · food and hunger ·
@@ -197,6 +197,24 @@ Newest batch first. Format:
 - [x] candidate text   ← published
 - [ ] candidate text
 ```
+
+### 2026-08-19 — theme: Margaret
+
+- [ ] No. You are thinking of the other Margaret. There is only one Margaret,
+      and you are still thinking of the other one. *(motif: MARGARET)*
+- [ ] Margaret took sugar, then stopped, then started again the year it
+      mattered. She hummed when she was lying and never when she was sad. You
+      did not ask for any of this. I am giving it to you anyway, so that it
+      is kept in two places. *(motif: MARGARET)*
+- [x] Margaret has asked me to say she is not here. She asked in person,
+      standing very close to the microphone, in the voice she uses for the
+      cat. I have passed it on. Make of it what you will.
+      *(motif: MARGARET)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-19, bringing it to 236
+entries and MARGARET from 4 lines to 7 — her first new lines since the seed
+and her first social post. 116, 230 and 187 characters.*
 
 ### 2026-08-19 — theme: a numbers sign-on
 
