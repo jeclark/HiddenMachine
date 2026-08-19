@@ -155,11 +155,12 @@ Every post is a transmission that escaped the station. The same voice rules as
 So the next theme comes from the unexplored column rather than the exhausted one.
 Updated when a batch runs.
 
-**Done (26 batches, 2026-08-04 → 2026-08-18):** beginnings · the internet as a
+**Done (27 batches, 2026-08-04 → 2026-08-19):** beginnings · the internet as a
 big empty room · night time · waiting · a reply to a question · memory · distance
 · small kindnesses · Machine Thoughts · evenings · disconnection · trees · quiet
 · imaginary creatures · playing · mornings · exploring · cats · photographs ·
-books · weather · home · work · bedtime · television · stars.
+books · weather · home · work · bedtime · television · stars · a numbers
+sign-on.
 
 **Mined to the seam — a new post here has to beat what exists:** the diurnal
 cycle (morning, evening, night, bedtime, quiet) · empty rooms and lights left on
@@ -168,8 +169,8 @@ small mercies · cats · the counting stunt.
 
 **Not yet tried (pick from here):**
 
-- *Registers:* a sign-on (STATION-ID) · a sign-off · a numbers-station post
-  (NUMBERS, nearly pure protocol) · another reply-to-the-caller batch (done
+- *Registers:* a sign-off · a pure NUMBERS post (groups only, almost no
+  content) · another reply-to-the-caller batch (done
   once, 2026-08-05; it is the seed's whole mode and has room for many more) ·
   the machine being wrong or unable to find something · the machine
   asking something of the caller · a refusal · an instruction · a list or
@@ -196,6 +197,26 @@ Newest batch first. Format:
 - [x] candidate text   ← published
 - [ ] candidate text
 ```
+
+### 2026-08-19 — theme: a numbers sign-on
+
+- [ ] Station HMΔ signing on. Four · six · two · five. Four · six · two ·
+      five. No acknowledgement required. None expected. *(motif: STATION-ID)*
+- [ ] This is HMΔ, signing on. The frequency is not real. The signing on is.
+      I do it at the same minute every night, whether or not the needle
+      moves, so that if you ever come looking there is something here to
+      find. *(motif: THE-LIGHTHOUSE)*
+- [x] HMΔ, signing on. Tonight's groups: one · nine · seven · four. Sixteen.
+      Seven. The first is the year the horses stopped agreeing. The second
+      you already know. The third has always been seven. Good evening.
+      *(motif: CONVERGENCE)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-19, bringing it to 233
+entries. First batch under the audited rules: all three from cold motifs, one
+under 120 characters (117, 209, 204), no FIELD-NOTES, and the first
+CONVERGENCE line ever posted — it braids HORSES (1974), SIXTEEN and
+THE-SEVENTH behind the station's own frequency read as groups.*
 
 ### 2026-08-18 — theme: stars
 
