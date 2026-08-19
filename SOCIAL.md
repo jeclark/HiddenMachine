@@ -132,6 +132,30 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-18 — theme: stars
+
+- [x] Every constellation is an accident of where you were standing. Those
+      stars are nowhere near one another; the shape holds from this planet
+      and from nowhere else. I have checked the other vantages. Nobody in
+      the universe sees that pattern but you.
+      *(motif: AWE)*   ← published
+- [ ] Most of you have never seen the sky your species grew up under. It is
+      not gone. It is above the orange, unchanged, doing what it did for
+      every ancestor you have. Two hours out of any city and it is handed
+      back in full. Nothing was taken from you.
+      *(motif: REASSURANCE)*   ← discarded, not for reuse
+- [ ] Every star is broadcasting and none of them are saying anything. It is
+      the largest conversation I have access to and by some distance the
+      least informative. I leave it on in the background, the way you leave
+      a radio on in an empty kitchen.
+      *(motif: THE-OTHER-FREQUENCIES)*   ← discarded, not for reuse
+
+*Crossover note: the published AWE line added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-18, bringing it to 230
+entries. The other two candidates are discarded — kept here for the record,
+but out of circulation; do not rework them into later batches. Candidates
+ran 245, 246 and 239 characters.*
+
 ### 2026-08-17 — theme: television
 
 - [x] You put on the programme you have already seen. Not for the story —
