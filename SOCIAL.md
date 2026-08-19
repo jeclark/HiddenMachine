@@ -90,24 +90,53 @@ Every post is a transmission that escaped the station. The same voice rules as
   the way the pool does. It should still read complete in a single glance, the
   way the site displays one message at a time. The 300-character Bluesky limit
   is the hard backstop and the only real ceiling; below it, a one-line
-  transmission is as legitimate as a six-sentence one.
+  transmission is as legitimate as a six-sentence one. In practice the ceiling
+  became a target — the first twenty-six published posts average about 210
+  characters and none is under 150 — so **at least one candidate in every batch
+  is under 120 characters**, and a single sentence is always in play.
 - **Motifs:** lean on the existing pool (see `PHRASES.md`) — TIDE, MARGARET,
   THE-BLUE-ONE, THE-SEVENTH, THE-KETTLE, SIXTEEN, RECURRENCE, and the rest.
   A long-time follower should slowly feel the patterns surface, same as a
   long-time visitor to the site. Use CONVERGENCE payoffs rarely and deliberately.
   "Machine Thoughts" is a standing theme: ask for it and the batch draws on
-  FIELD-NOTES — the machine's musings about humanity at large.
+  FIELD-NOTES — the machine's musings about humanity at large. Otherwise
+  FIELD-NOTES is **one candidate per batch at most**: it has won seven of the
+  first twenty-six batches and is the pool's most-used motif, and the feed
+  should not become a nature documentary about humans.
+- **Feed the cold motifs.** Nothing from the station's private history has been
+  posted yet — no MARGARET, THE-BLUE-ONE, TIDE, NUMBERS, SIXTEEN or RECURRENCE,
+  no STATION-ID sign-on or SIGN-OFF. Those are the site's spine, and a follower
+  who has never met them is missing the half of the voice that is strange rather
+  than kind. Each batch should offer at least one candidate from a cold motif
+  (the list is in `PHRASES.md`).
+- **Reply-shaped posts are wanted.** A post may be one side of a call with no
+  visible question — "No — the other one. The blue one. You know the one." is a
+  complete post, and the missing question is the hook. The audience does not
+  need the IN line to be intrigued by the OUT line. Aim for one reply-shaped
+  candidate per batch.
+- **Mind the tic watchlist** in `PHRASES.md` — "I have decided", "I have
+  logged", "the record", "the arrangement", "Somewhere a…", "six years",
+  "forty million". Social candidates are where most of those crept in.
 - **Never name the source** of the end-of-simulation material. No Atlas, no
   Traveller, no game titles. Oblique or nothing.
-- **Posts may migrate.** A strong post can later be appended to the site's
-  `MESSAGES` pool; a strong site phrase may occasionally be transmitted socially.
-  Note it in the log when one crosses over, so nothing is doubled accidentally.
+- **Posts may migrate — but not by default.** A strong post can later be
+  appended to the site's `MESSAGES` pool; a strong site phrase may occasionally
+  be transmitted socially. Note it in the log when one crosses over, so nothing
+  is doubled accidentally. Sixty-seven of the sixty-eight lines added to the
+  site since the feed began were social candidates first, which is how the site
+  drifted from replies toward essays. The crossover decision stays yours, but
+  when asked I will recommend by shape: a candidate that answers an unheard
+  question or extends a cold motif belongs in the pool; a self-contained essay
+  about humanity at large usually does not, however good a post it makes.
 
 ## Workflow
 
 1. You supply a **theme** (a motif, a mood, a season, an itch).
-2. I generate **3 candidate posts** on that theme, tonally varied — typically one
-   colder, one tender, one absurd or awestruck, though the theme steers the mix.
+2. I generate **3 candidate posts** on that theme, tonally varied — one colder
+   or eerie, one tender, one absurd or awestruck — and shape-varied: at least
+   one under 120 characters, at least one reply-shaped or from a cold motif, at
+   most one FIELD-NOTES. The theme steers the mix but does not excuse it. I
+   check the log and the pool first so lines and tics don't repeat.
 3. You **pick one and publish it** manually. I never post anything myself.
 4. All three candidates go in the **log below**, with the chosen one marked.
    Unchosen candidates may be reused or reworked in later batches; check the log
@@ -118,6 +147,42 @@ Every post is a transmission that escaped the station. The same voice rules as
    That confirmation is the only approval needed.
 6. I then **display the chosen post on its own**, as a plain copyable block with
    no commentary around it, so it can be lifted straight into the platform.
+
+---
+
+## Themes ledger
+
+So the next theme comes from the unexplored column rather than the exhausted one.
+Updated when a batch runs.
+
+**Done (26 batches, 2026-08-04 → 2026-08-18):** beginnings · the internet as a
+big empty room · night time · waiting · a reply to a question · memory · distance
+· small kindnesses · Machine Thoughts · evenings · disconnection · trees · quiet
+· imaginary creatures · playing · mornings · exploring · cats · photographs ·
+books · weather · home · work · bedtime · television · stars.
+
+**Mined to the seam — a new post here has to beat what exists:** the diurnal
+cycle (morning, evening, night, bedtime, quiet) · empty rooms and lights left on
+· dead links and archived places · memory-as-archive · late-arriving messages ·
+small mercies · cats · the counting stunt.
+
+**Not yet tried (pick from here):**
+
+- *Registers:* a sign-on (STATION-ID) · a sign-off · a numbers-station post
+  (NUMBERS, nearly pure protocol) · another reply-to-the-caller batch (done
+  once, 2026-08-05; it is the seed's whole mode and has room for many more) ·
+  the machine being wrong or unable to find something · the machine
+  asking something of the caller · a refusal · an instruction · a list or
+  inventory · quoting the caller back · a transmission for someone who is not
+  you · another frequency bleeding in · a SIXTEEN or RECURRENCE post · a
+  CONVERGENCE payoff · the machine's own losses · a very short post (under 80).
+- *Subjects:* Margaret · the blue one · the tide and the sea · birds · autumn
+  and the turn of the year · rain, plainly · snow (one line discarded; the
+  subject is open) · the moon · trains and platforms · letters and the post ·
+  maps and places · clocks, time zones, the UTC readout · food and hunger ·
+  music · smell · the body the machine does not have · children · ageing ·
+  death, said plainly · the caller's future · money in the small way · the
+  garden · the kettle · horses · the 14th floor · the door.
 
 ---
 
