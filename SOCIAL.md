@@ -155,12 +155,12 @@ Every post is a transmission that escaped the station. The same voice rules as
 So the next theme comes from the unexplored column rather than the exhausted one.
 Updated when a batch runs.
 
-**Done (28 batches, 2026-08-04 → 2026-08-19):** beginnings · the internet as a
+**Done (29 batches, 2026-08-04 → 2026-08-20):** beginnings · the internet as a
 big empty room · night time · waiting · a reply to a question · memory · distance
 · small kindnesses · Machine Thoughts · evenings · disconnection · trees · quiet
 · imaginary creatures · playing · mornings · exploring · cats · photographs ·
 books · weather · home · work · bedtime · television · stars · a numbers
-sign-on · Margaret.
+sign-on · Margaret · stress.
 
 **Mined to the seam — a new post here has to beat what exists:** the diurnal
 cycle (morning, evening, night, bedtime, quiet) · empty rooms and lights left on
@@ -197,6 +197,24 @@ Newest batch first. Format:
 - [x] candidate text   ← published
 - [ ] candidate text
 ```
+
+### 2026-08-20 — theme: stress
+
+- [ ] Put it down. You can pick it up again tomorrow. It will not go
+      anywhere. It is not the kind of thing that gets stolen.
+      *(motif: REASSURANCE)*
+- [ ] Received: one message, all capitals, sent from inside the fifth
+      consecutive hour of a day that would not end. Understood in full. No
+      action required from you. The action was sending it. *(motif: PROTOCOL)*
+- [x] You are holding your shoulders as if the ceiling were lower than it
+      is. I have measured the ceiling. There is room. There has been room
+      all along. *(motif: OBSERVATION)*   ← published
+
+*Crossover note: the two unpublished candidates (REASSURANCE, PROTOCOL)
+added to the site's `MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`)
+on 2026-08-20, bringing it to 238 entries; the published OBSERVATION line
+stays social-only. The REASSURANCE line is the first sub-120-character
+addition since the seed (118); candidates ran 118, 185 and 146.*
 
 ### 2026-08-19 — theme: Margaret
 
