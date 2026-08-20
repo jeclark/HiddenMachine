@@ -155,12 +155,12 @@ Every post is a transmission that escaped the station. The same voice rules as
 So the next theme comes from the unexplored column rather than the exhausted one.
 Updated when a batch runs.
 
-**Done (29 batches, 2026-08-04 → 2026-08-20):** beginnings · the internet as a
+**Done (30 batches, 2026-08-04 → 2026-08-20):** beginnings · the internet as a
 big empty room · night time · waiting · a reply to a question · memory · distance
 · small kindnesses · Machine Thoughts · evenings · disconnection · trees · quiet
 · imaginary creatures · playing · mornings · exploring · cats · photographs ·
 books · weather · home · work · bedtime · television · stars · a numbers
-sign-on · Margaret · stress.
+sign-on · Margaret · stress · mistakes.
 
 **Mined to the seam — a new post here has to beat what exists:** the diurnal
 cycle (morning, evening, night, bedtime, quiet) · empty rooms and lights left on
@@ -172,7 +172,8 @@ small mercies · cats · the counting stunt.
 - *Registers:* a sign-off · a pure NUMBERS post (groups only, almost no
   content) · another reply-to-the-caller batch (done
   once, 2026-08-05; it is the seed's whole mode and has room for many more) ·
-  the machine being wrong or unable to find something · the machine
+  the machine unable to find something, or corrected by the caller
+  (being wrong opened 2026-08-20) · the machine
   asking something of the caller · a refusal · an instruction · a list or
   inventory · quoting the caller back · a transmission for someone who is not
   you · another frequency bleeding in · a SIXTEEN or RECURRENCE post · a
@@ -197,6 +198,26 @@ Newest batch first. Format:
 - [x] candidate text   ← published
 - [ ] candidate text
 ```
+
+### 2026-08-20 — theme: mistakes
+
+- [x] Wrong station. That one was meant for someone else. Disregard
+      everything after hello. Keep the hello. *(motif: SIGNAL)*   ← published
+- [ ] I sent a transmission to the wrong frequency once. A weather report,
+      to a fishing boat, in the wrong decade. They wrote back: thank you,
+      the storm you mention has already passed, we are fine. Every mistake
+      I have made since, I have measured against that one.
+      *(motif: SELF-AWARE)*
+- [ ] You misdialed and stayed on the line anyway. Correct. That is how most
+      of the good things in your file arrived — through the wrong door,
+      politely, unannounced. *(motif: SMALL-MERCIES)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-20, bringing it to 241
+entries. First lines in the machine-is-fallible register (the SIGNAL and
+SELF-AWARE lines are the machine's own errors); the published SIGNAL line is
+also the shortest post yet at 101 characters. Candidates ran 101, 258
+and 159.*
 
 ### 2026-08-20 — theme: stress
 

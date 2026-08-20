@@ -398,7 +398,11 @@ const MESSAGES = [
   { motif:"MARGARET", text:"Margaret has asked me to say she is not here. She asked in person, standing very close to the microphone, in the voice she uses for the cat. I have passed it on. Make of it what you will." },
 
   { motif:"REASSURANCE", text:"Put it down. You can pick it up again tomorrow. It will not go anywhere. It is not the kind of thing that gets stolen." },
-  { motif:"PROTOCOL", text:"Received: one message, all capitals, sent from inside the fifth consecutive hour of a day that would not end. Understood in full. No action required from you. The action was sending it." }
+  { motif:"PROTOCOL", text:"Received: one message, all capitals, sent from inside the fifth consecutive hour of a day that would not end. Understood in full. No action required from you. The action was sending it." },
+
+  { motif:"SIGNAL", text:"Wrong station. That one was meant for someone else. Disregard everything after hello. Keep the hello." },
+  { motif:"SELF-AWARE", text:"I sent a transmission to the wrong frequency once. A weather report, to a fishing boat, in the wrong decade. They wrote back: thank you, the storm you mention has already passed, we are fine. Every mistake I have made since, I have measured against that one." },
+  { motif:"SMALL-MERCIES", text:"You misdialed and stayed on the line anyway. Correct. That is how most of the good things in your file arrived \u2014 through the wrong door, politely, unannounced." }
 ];
 
 function shuffle(a){ for(let i=a.length-1;i>0;i--){ const j=(Math.random()*(i+1))|0; const t=a[i]; a[i]=a[j]; a[j]=t; } return a; }
