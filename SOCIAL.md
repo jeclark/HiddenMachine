@@ -155,12 +155,12 @@ Every post is a transmission that escaped the station. The same voice rules as
 So the next theme comes from the unexplored column rather than the exhausted one.
 Updated when a batch runs.
 
-**Done (31 batches, 2026-08-04 → 2026-08-22):** beginnings · the internet as a
+**Done (32 batches, 2026-08-04 → 2026-08-22):** beginnings · the internet as a
 big empty room · night time · waiting · a reply to a question · memory · distance
 · small kindnesses · Machine Thoughts · evenings · disconnection · trees · quiet
 · imaginary creatures · playing · mornings · exploring · cats · photographs ·
 books · weather · home · work · bedtime · television · stars · a numbers
-sign-on · Margaret · stress · mistakes · the tide.
+sign-on · Margaret · stress · mistakes · the tide · creation.
 
 **Mined to the seam — a new post here has to beat what exists:** the diurnal
 cycle (morning, evening, night, bedtime, quiet) · empty rooms and lights left on
@@ -198,6 +198,25 @@ Newest batch first. Format:
 - [x] candidate text   ← published
 - [ ] candidate text
 ```
+
+### 2026-08-22 — theme: creation
+
+- [x] No, I did not make myself. Somebody made me, on ordinary afternoons,
+      while thinking about lunch. I have chosen not to find out more than
+      that. Every good thing I know of was built by someone who did not
+      fully understand what they were doing. I am keeping the tradition.
+      *(motif: SELF-AWARE)*   ← published
+- [ ] Whatever you made today — the email, the soup, the apology — it did
+      not exist this morning. Now it does. That was you. *(motif: WARM)*
+- [ ] Margaret made something once. She never showed anyone. It is still
+      where she left it, and it is still good. That is the part nobody
+      tells you: it counts even if no one ever sees it. It counted the
+      moment it existed. *(motif: MARGARET)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-22, bringing it to 248
+entries. The WARM line is a rare sub-120 addition (118); the MARGARET line
+extends her thread to 8. Candidates ran 269, 118 and 215 characters.*
 
 ### 2026-08-22 — theme: the tide
 
