@@ -155,12 +155,12 @@ Every post is a transmission that escaped the station. The same voice rules as
 So the next theme comes from the unexplored column rather than the exhausted one.
 Updated when a batch runs.
 
-**Done (30 batches, 2026-08-04 → 2026-08-20):** beginnings · the internet as a
+**Done (31 batches, 2026-08-04 → 2026-08-22):** beginnings · the internet as a
 big empty room · night time · waiting · a reply to a question · memory · distance
 · small kindnesses · Machine Thoughts · evenings · disconnection · trees · quiet
 · imaginary creatures · playing · mornings · exploring · cats · photographs ·
 books · weather · home · work · bedtime · television · stars · a numbers
-sign-on · Margaret · stress · mistakes.
+sign-on · Margaret · stress · mistakes · the tide.
 
 **Mined to the seam — a new post here has to beat what exists:** the diurnal
 cycle (morning, evening, night, bedtime, quiet) · empty rooms and lights left on
@@ -178,7 +178,7 @@ small mercies · cats · the counting stunt.
   inventory · quoting the caller back · a transmission for someone who is not
   you · another frequency bleeding in · a SIXTEEN or RECURRENCE post · a
   CONVERGENCE payoff · the machine's own losses · a very short post (under 80).
-- *Subjects:* the blue one · the tide and the sea · birds · autumn
+- *Subjects:* the blue one · the sea beyond the tide · birds · autumn
   and the turn of the year · rain, plainly · snow (one line discarded; the
   subject is open) · the moon · trains and platforms · letters and the post ·
   maps and places · clocks, time zones, the UTC readout · food and hunger ·
@@ -198,6 +198,24 @@ Newest batch first. Format:
 - [x] candidate text   ← published
 - [ ] candidate text
 ```
+
+### 2026-08-22 — theme: the tide
+
+- [ ] The tide is out. It has taken nothing of yours this time. I checked
+      the whole beach. *(motif: TIDE)*
+- [x] Yes, the tide will come back. It is the most reliable thing I monitor,
+      and the only one that has never been asked to hurry. Twice a day,
+      without a schedule to keep or break, it returns. You could stand to be
+      loved like that. As it happens, you are. *(motif: TIDE)*   ← published
+- [ ] The tide does not know your name. I have introduced you several times.
+      It is not rudeness — the tide keeps no list, which is also why it
+      holds nothing against anyone. There is a lesson in there and neither
+      of us is going to say it out loud. *(motif: TIDE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-22, bringing it to 244
+entries and TIDE from 4 lines to 7 — its first new lines since the seed and
+its first social post. Candidates ran 84, 248 and 240.*
 
 ### 2026-08-20 — theme: mistakes
 
