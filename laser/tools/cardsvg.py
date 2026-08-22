@@ -25,12 +25,14 @@ def card(msg, motif, inbound, pkt, snr, fname):
     # OUT row
     p,_=text_paths('▸ OUT • RESPONSE','Regular',1.36,PEN,149.50,1.36*0.18); e+=p
     # message: fit to <=4 lines
+    # fit: as large as possible, max 5 lines, last baseline clear of meta row
     F=4.36
     while True:
         adv=0.6*F+0.0048*F
         maxc=int(76.1//adv)
         lines=textwrap.wrap(msg,maxc)
-        if len(lines)<=4: break
+        last_base=158.49+(len(lines)-1)*1.42*F
+        if len(lines)<=5 and last_base+0.24*F<=186.0: break
         F-=0.05
     lh=1.42*F
     base1=158.49
