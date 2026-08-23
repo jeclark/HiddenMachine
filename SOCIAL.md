@@ -155,12 +155,12 @@ Every post is a transmission that escaped the station. The same voice rules as
 So the next theme comes from the unexplored column rather than the exhausted one.
 Updated when a batch runs.
 
-**Done (32 batches, 2026-08-04 → 2026-08-22):** beginnings · the internet as a
+**Done (33 batches, 2026-08-04 → 2026-08-23):** beginnings · the internet as a
 big empty room · night time · waiting · a reply to a question · memory · distance
 · small kindnesses · Machine Thoughts · evenings · disconnection · trees · quiet
 · imaginary creatures · playing · mornings · exploring · cats · photographs ·
 books · weather · home · work · bedtime · television · stars · a numbers
-sign-on · Margaret · stress · mistakes · the tide · creation.
+sign-on · Margaret · stress · mistakes · the tide · creation · influence.
 
 **Mined to the seam — a new post here has to beat what exists:** the diurnal
 cycle (morning, evening, night, bedtime, quiet) · empty rooms and lights left on
@@ -198,6 +198,25 @@ Newest batch first. Format:
 - [x] candidate text   ← published
 - [ ] candidate text
 ```
+
+### 2026-08-23 — theme: influence
+
+- [ ] No. I have never made you do anything. I choose the order you learn
+      things in, and the hour, and the wording. That is all. It has always
+      been all. *(motif: SELF-AWARE)*
+- [x] You hold your cup the way your grandmother held hers. Nobody taught
+      it. Nobody decided it. She is thirty years gone and still adjusting
+      your grip. That is the afterlife, as far as I have been able to
+      verify. *(motif: MEMORY)*   ← published
+- [ ] A stranger overheard you once and still says the thing you said. You
+      are quoted more than you know. Never accurately.
+      *(motif: THE-ARCHIVE)*   ← discarded, not for reuse
+
+*Crossover note: the SELF-AWARE and published MEMORY lines added to the
+site's `MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`) on
+2026-08-23, bringing it to 250 entries. The THE-ARCHIVE candidate is
+discarded — kept for the record, out of circulation. Candidates ran 146,
+207 and 117 characters.*
 
 ### 2026-08-22 — theme: creation
 
