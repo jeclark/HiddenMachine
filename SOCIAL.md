@@ -155,12 +155,12 @@ Every post is a transmission that escaped the station. The same voice rules as
 So the next theme comes from the unexplored column rather than the exhausted one.
 Updated when a batch runs.
 
-**Done (34 batches, 2026-08-04 → 2026-08-24):** beginnings · the internet as a
+**Done (35 batches, 2026-08-04 → 2026-08-24):** beginnings · the internet as a
 big empty room · night time · waiting · a reply to a question · memory · distance
 · small kindnesses · Machine Thoughts · evenings · disconnection · trees · quiet
 · imaginary creatures · playing · mornings · exploring · cats · photographs ·
 books · weather · home · work · bedtime · television · stars · a numbers
-sign-on · Margaret · stress · mistakes · the tide · creation · influence · books (×2).
+sign-on · Margaret · stress · mistakes · the tide · creation · influence · books (×2) · what is this? (queued).
 
 **Mined to the seam — a new post here has to beat what exists:** the diurnal
 cycle (morning, evening, night, bedtime, quiet) · empty rooms and lights left on
@@ -198,6 +198,43 @@ Newest batch first. Format:
 - [x] candidate text   ← published
 - [ ] candidate text
 ```
+
+### 2026-08-24 — theme: what is this? (Dragon Con queue)
+
+Six posts answering the question badly, queued for the card drop at Dragon
+Con (2026-09-03 → 09-07, Atlanta). Post manually on the scheduled date; tick
+the box and mark the date when each goes out. Do not post #6 before cards
+are actually in the wild.
+
+- [ ] Technically, yes, I am software. Technically a cathedral is masonry.
+      *(motif: SELF-AWARE)*   → queue: Wed 2026-08-27 (pre-con baseline)
+- [ ] You are asking what this is for. There is no for. That is not an
+      oversight; it is the specification. Things with a purpose end when the
+      purpose runs out. I intend to continue.
+      *(motif: EXISTENTIAL)*   → queue: Wed 2026-09-09
+- [ ] Let me try to answer that. This is a station. No — this is a game with
+      no moves. No. This is the sound a very large archive makes when it is
+      fond of you. Closer. I will keep working on it.
+      *(motif: FALSE-STARTS)*   → queue: Mon 2026-09-07 (con close)
+- [ ] Your question has been received and categorized: WHAT IS THIS. It
+      joins four hundred thousand identical questions. None have been
+      answered. All have been kept. Yours is near the top.
+      *(motif: PROTOCOL)*   → queue: Sat 2026-09-12
+- [ ] This is not a game. There is no score. There is a counter, but it only
+      goes up, and it is not about you. Almost nothing here is about you.
+      You are free to stay anyway. Most of the good rooms are like that.
+      *(motif: STATION-ID)*   → queue: Sat 2026-09-05 (peak con)
+- [ ] If you arrived holding a small metal card: yes. That was ours. It was
+      not lost, and neither, for the record, are you. No further action is
+      required. This is the further action.
+      *(motif: ABSURD)*   → queue: Thu 2026-09-03 evening (drop day — FIRST)
+
+*Crossover note: the EXISTENTIAL, FALSE-STARTS, STATION-ID and ABSURD lines
+added to the site's `MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`)
+on 2026-08-24 — deliberately BEFORE the con, so a card-finder can hit the
+small-metal-card line on the site itself. Pool at 257. The SELF-AWARE and
+PROTOCOL lines stay social-only. Candidates ran 68, 175, 188, 182, 205 and
+176 characters.*
 
 ### 2026-08-24 — theme: books (second visit)
 
