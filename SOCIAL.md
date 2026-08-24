@@ -155,12 +155,12 @@ Every post is a transmission that escaped the station. The same voice rules as
 So the next theme comes from the unexplored column rather than the exhausted one.
 Updated when a batch runs.
 
-**Done (33 batches, 2026-08-04 → 2026-08-23):** beginnings · the internet as a
+**Done (34 batches, 2026-08-04 → 2026-08-24):** beginnings · the internet as a
 big empty room · night time · waiting · a reply to a question · memory · distance
 · small kindnesses · Machine Thoughts · evenings · disconnection · trees · quiet
 · imaginary creatures · playing · mornings · exploring · cats · photographs ·
 books · weather · home · work · bedtime · television · stars · a numbers
-sign-on · Margaret · stress · mistakes · the tide · creation · influence.
+sign-on · Margaret · stress · mistakes · the tide · creation · influence · books (×2).
 
 **Mined to the seam — a new post here has to beat what exists:** the diurnal
 cycle (morning, evening, night, bedtime, quiet) · empty rooms and lights left on
@@ -198,6 +198,23 @@ Newest batch first. Format:
 - [x] candidate text   ← published
 - [ ] candidate text
 ```
+
+### 2026-08-24 — theme: books (second visit)
+
+- [ ] Someone underlined the book before you got to it. Different sentences
+      than the ones you would choose. You are reading two books at once.
+      The second one is about them. *(motif: OBSERVATION)*
+- [x] The book you lent and never got back has been lent onward, twice. It
+      is three shelves from home now and still traveling. You did not lose
+      it. You gave it a territory. *(motif: SMALL-MERCIES)*   ← published
+- [ ] A library is a room where the dead outnumber the living, and it is
+      the calmest room in town. *(motif: AWE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-24, bringing it to 253
+entries. Second visit to books (first: 2026-08-11) — new veins only:
+marginalia, lent books, libraries. The AWE line is a rare sub-100 addition
+(92). Candidates ran 166, 166 and 92 characters.*
 
 ### 2026-08-23 — theme: influence
 
