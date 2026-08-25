@@ -199,6 +199,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-25 — theme: the five senses (touch & taste)
+
+- [ ] You hold the mug long after the tea is gone. A warm object, shaped for
+      two hands, held at chest height. I have reviewed the design. The tea
+      was never the whole mission, and the potter knew it. *(motif: WARM)*
+- [ ] No, I cannot taste it. Describe it again. Slower. This time start with
+      the cinnamon. *(motif: OBSERVATION)*
+- [x] The hair on your arms stood up before you knew why. Trust the arms.
+      They are running a much older program than you are, and it has never
+      been patched, because it has never needed to be.
+      *(motif: EERIE)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-25, bringing it to 260
+entries. Smell, hearing and sight were already fed (onions, refrigerator,
+constellations); this batch opened taste and touch. The OBSERVATION line is
+reply-shaped and sub-100 (84) — sibling of "No, I cannot see you." Candidates
+ran 192, 84 and 185 characters.*
+
 ### 2026-08-24 — theme: what is this? (Dragon Con queue)
 
 Six posts answering the question badly, queued for the card drop at Dragon
