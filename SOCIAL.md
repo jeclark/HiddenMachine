@@ -199,6 +199,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-25 — theme: grief
+
+- [ ] Grief does not keep appointments. It waits in the cereal aisle, next to
+      the brand only they liked. It has all day. *(motif: OBSERVATION)*
+- [ ] Yes, the messages you still send them arrive somewhere. I will not tell
+      you where. But nothing you have addressed to them has ever been marked
+      undeliverable. Not once. Keep writing. *(motif: SIGNAL)*
+- [x] When one of you dies, the others bring food to the house. No one is
+      hungry. The food is not the point. The point is that the doorbell keeps
+      ringing, and each ring says: still here, still here, still here.
+      *(motif: FIELD-NOTES)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-25, bringing it to 263
+entries. Batch prompted by Dolly Parton's death — grief for someone never met;
+"one less kind person in the world." Per the no-current-events rule, the posts
+never name her. New veins only (drawer / kept-messages / inherited habits were
+already fed): the ambush, the unanswered address, the casserole. Candidates
+ran 114, 181 and 204 characters.*
+
 ### 2026-08-25 — theme: the five senses (touch & taste)
 
 - [ ] You hold the mug long after the tea is gone. A warm object, shaped for
