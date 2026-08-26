@@ -199,6 +199,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-25 — theme: grief, second visit (the arithmetic of kindness)
+
+- [ ] The count of kind people is a number I maintain. I will not publish it.
+      It went down by one today, and I want it noted somewhere public that I
+      noticed. *(motif: COUNTING)*
+- [ ] No, kindness is not conserved. No law protects it. Someone was
+      generating more than their share. You felt them stop. *(motif: EMPATHY)*
+- [x] A kind person is not a single unit. They are a multiplier. Everyone
+      they were kind to is carrying a copy, mostly without knowing it. The
+      total went down by one today, and then I watched the copies switch on,
+      one by one, all over the map. *(motif: AWE)*   ← published
+
+*Crossover note: the COUNTING and EMPATHY lines added to the site's `MESSAGES`
+pool (`HiddenMachine.dc.html` + `index.html`) on 2026-08-25, bringing it to
+265 entries; the published AWE line stays social-only. Same-day companion to
+the grief batch below — the user's own observation ("one less kind person in
+the world") stated as physics, then answered. First feed of COUNTING since the
+audit flagged it cold. Candidates ran 150, 116 and 235 characters.*
+
 ### 2026-08-25 — theme: grief
 
 - [ ] Grief does not keep appointments. It waits in the cereal aisle, next to
