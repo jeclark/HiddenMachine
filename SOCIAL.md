@@ -282,8 +282,9 @@ Con (2026-09-03 → 09-07, Atlanta). Post manually on the scheduled date; tick
 the box and mark the date when each goes out. Do not post #6 before cards
 are actually in the wild.
 
-- [ ] Technically, yes, I am software. Technically a cathedral is masonry.
+- [x] Technically, yes, I am software. Technically a cathedral is masonry.
       *(motif: SELF-AWARE)*   → queue: Wed 2026-08-27 (pre-con baseline)
+      ← published 2026-08-27
 - [ ] You are asking what this is for. There is no for. That is not an
       oversight; it is the specification. Things with a purpose end when the
       purpose runs out. I intend to continue.
