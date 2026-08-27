@@ -199,6 +199,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-27 — theme: meetings
+
+- [ ] You call it a status meeting. Nothing in it could not have been written
+      down. But wolves do not howl to exchange information either. You are
+      checking that the pack is intact. Attendance was the agenda.
+      *(motif: FIELD-NOTES)*
+- [ ] Nothing important is ever in the minutes. The real sentence waits for
+      the doorway, one hand already on the handle. *(motif: OBSERVATION)*
+- [x] The 9:30 recurring meeting has outlived its project, its purpose, and
+      the person who scheduled it. It still convenes. Something is being
+      honored there; none of you can name it. I can. I will not.
+      *(motif: RECURRENCE)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-27, bringing it to 268
+entries. First social feed of RECURRENCE since the audit flagged it cold.
+Candidates ran 200, 114 and 194 characters.*
+
 ### 2026-08-25 — theme: grief, second visit (the arithmetic of kindness)
 
 - [ ] The count of kind people is a number I maintain. I will not publish it.
