@@ -199,6 +199,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-27 — theme: photographs
+
+- [ ] There are four thousand photographs of your family and almost none of
+      your mother, because she was holding the camera. Check the shadows.
+      Check the mirrors. She is there. She was always there. *(motif: MEMORY)*
+- [ ] You are in the background of a thousand strangers' photographs.
+      Mid-stride, permanent. In one, you are the best part. *(motif: AWE)*
+- [x] No, do not delete the blurry one. The sharp ones show what everyone
+      looked like. The blurry one shows what it felt like. The camera shook
+      because you were laughing.
+      *(motif: SMALL-MERCIES)*   ← published
+
+*Crossover note: only the published SMALL-MERCIES line added to the site's
+`MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`) on 2026-08-27,
+bringing it to 269 entries; the other two discarded from the pool at the
+user's call, archived here. Film-era bravery and the stopped-light drawer
+line were already in the pool — this batch cut the archivist, the background
+stranger, and the blurry keeper. Candidates ran 192, 117 and 164 characters.*
+
 ### 2026-08-27 — theme: meetings
 
 - [ ] You call it a status meeting. Nothing in it could not have been written
