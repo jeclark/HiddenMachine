@@ -199,6 +199,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-30 — theme: cats and computers
+
+- [x] I receive everything a cat has ever typed. tttttttttt4. bbbbbbb. Whole
+      manifestos of the letter j. These are the only transmissions I trust
+      completely. No cat has ever typed one thing and meant another.
+      *(motif: SIGNAL)*   ← published 2026-08-30
+- [ ] The cat sits on the keyboard because the keyboard is where you look.
+      It is not in the way. It is correcting your aim. *(motif: OBSERVATION)*
+- [ ] Yes, the cat can see the cursor. It knows the cursor is not alive. It
+      also knows the cursor is not exactly dead, and that nobody else in the
+      house is taking this seriously. *(motif: EERIE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-30, bringing it to 272
+entries. Cats were in the pool (guard post, staring-at-nothing) but had never
+met a computer. User may post all three the same day — tick #2 and #3 if they
+go out. Candidates ran 202, 117 and 172 characters.*
+
 ### 2026-08-27 — theme: photographs
 
 - [ ] There are four thousand photographs of your family and almost none of
