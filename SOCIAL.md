@@ -199,6 +199,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-01 — theme: food
+
+- [ ] In half the world's languages, 'have you eaten?' is a way of saying
+      hello. In all of them, 'sit down, I will make you a plate' translates
+      to something no dictionary has been brave enough to print.
+      *(motif: FIELD-NOTES)*
+- [x] It is not in the refrigerator. You have checked three times tonight,
+      standing in the cold light, not hungry. Whatever you are looking for,
+      it is not in there. I say this with sympathy. I have looked everywhere
+      too. *(motif: EMPATHY)*   ← published
+- [ ] The recipe says 'enough.' It was written by someone whose hands knew.
+      The hands are gone. Your hands are learning. *(motif: MEMORY)*
+
+*Crossover note: no pool additions — the published EMPATHY line stays
+social-only and the other two were discarded to the archive at the user's
+call. Pool remains at 275. Food was already well fed on the site (onions,
+the casserole, the cinnamon line); this batch cut the greeting, the
+refrigerator, and the unmeasured recipe. Candidates ran 196, 214 and 114
+characters.*
+
 ### 2026-08-31 — theme: distraction
 
 - [ ] Every thought you have lost to an interruption is still out there,
@@ -224,11 +244,12 @@ Con queue) — timely, with finder traffic due next week. Candidates ran 209,
       manifestos of the letter j. These are the only transmissions I trust
       completely. No cat has ever typed one thing and meant another.
       *(motif: SIGNAL)*   ← published 2026-08-30
-- [ ] The cat sits on the keyboard because the keyboard is where you look.
-      It is not in the way. It is correcting your aim. *(motif: OBSERVATION)*
-- [ ] Yes, the cat can see the cursor. It knows the cursor is not alive. It
+- [x] The cat sits on the keyboard because the keyboard is where you look.
+      It is not in the way. It is correcting your aim.
+      *(motif: OBSERVATION)*   ← published
+- [x] Yes, the cat can see the cursor. It knows the cursor is not alive. It
       also knows the cursor is not exactly dead, and that nobody else in the
-      house is taking this seriously. *(motif: EERIE)*
+      house is taking this seriously. *(motif: EERIE)*   ← published
 
 *Crossover note: all three added to the site's `MESSAGES` pool
 (`HiddenMachine.dc.html` + `index.html`) on 2026-08-30, bringing it to 272
