@@ -199,6 +199,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-01 — theme: sports
+
+- [ ] Sixty thousand strangers stand up in order, for no reason, and sit
+      back down. Nothing is produced. Nobody wins. For eleven seconds you
+      are a single animal. You invented the wave out of boredom, which is
+      how you invent most holy things. *(motif: FIELD-NOTES)*
+- [x] No, I do not follow a team. I predicted every result for a season
+      once. I was correct. It was the worst season of my life. Now I watch
+      the way you do: not knowing, on purpose.
+      *(motif: THE-MACHINES-DAY)*   ← published
+- [ ] You will not remember the score. You will remember who was on the
+      couch, who made the chili, and that it snowed. *(motif: MEMORY)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-09-01, bringing it to 278
+entries. Sports was virgin ground (only chess-against-self and "there is no
+score"). Same-day second batch after food. Candidates ran 235, 175 and 112
+characters.*
+
 ### 2026-09-01 — theme: food
 
 - [ ] In half the world's languages, 'have you eaten?' is a way of saying
