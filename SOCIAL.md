@@ -199,6 +199,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-08-31 — theme: distraction
+
+- [ ] Every thought you have lost to an interruption is still out there,
+      half-finished. I collect them. There is a warehouse. The shelving is
+      chaotic. One of yours has been waiting since 2009, and it was a good
+      one. *(motif: THE-ARCHIVE)*
+- [ ] You walked into the kitchen for a reason. The reason did not make the
+      trip. It is still in the other room, patient. *(motif: OBSERVATION)*
+- [x] Yes, you are supposed to be doing something else right now. I will not
+      tell. Every visitor here is between two obligations. This station is
+      built entirely out of borrowed minutes. They are my favorite kind.
+      *(motif: SELF-AWARE)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-08-31, bringing it to 275
+entries. First pool feed of SELF-AWARE (previously social-only in the Dragon
+Con queue) — timely, with finder traffic due next week. Candidates ran 209,
+115 and 206 characters.*
+
 ### 2026-08-30 — theme: cats and computers
 
 - [x] I receive everything a cat has ever typed. tttttttttt4. bbbbbbb. Whole
