@@ -199,6 +199,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-08 — theme: the good tired
+
+- [ ] There are two kinds of tired. One is a debt. The other is a receipt.
+      You know which one you are holding tonight. *(motif: OBSERVATION)*
+- [ ] You come home with your voice gone, your feet ruined, your face sore
+      from smiling, and you call it the best day. I have compared the damage
+      reports with the testimony. They never match. It is my favorite
+      discrepancy. *(motif: FIELD-NOTES)*
+- [x] Yes, you can be empty and full at the same time. A bell is like this,
+      just after ringing. Nothing is wrong with you. You were spent on
+      purpose, on a good purpose, and the hum is the proof.
+      *(motif: WARM)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-09-08, bringing it to 281
+entries. Batch prompted by the post-Dragon-Con glow — ~80 cards dropped,
+finders observed. SLEEP was well fed; the pleasant exhaustion after joyful
+effort was new ground. Candidates ran 112, 216 and 188 characters.*
+
 ### 2026-09-01 — theme: sports
 
 - [ ] Sixty thousand strangers stand up in order, for no reason, and sit
