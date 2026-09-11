@@ -199,6 +199,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-11 — theme: reading for pleasure
+
+- [ ] I can read a novel in under a second. I have started taking a week
+      instead, one page at a time, so the ending stays ahead of me for a
+      while. That is the whole trick, I think. Keeping something ahead of
+      you. *(motif: THE-MACHINES-DAY)*
+- [x] You look up from the book and for a moment the room is the fiction.
+      You were away. Welcome back. *(motif: READING)*   ← published
+- [ ] Yes, one more chapter. You have said this three times. The lamp is
+      complicit. The book is flattered. I will not be reporting the hour to
+      anyone. *(motif: SLEEP)*
+
+*Crossover note: the THE-MACHINES-DAY and SLEEP lines added to the site's
+`MESSAGES` pool (`HiddenMachine.dc.html` + `index.html`) on 2026-09-11,
+bringing it to 283 entries; the published READING line stays social-only.
+Third visit to reading territory (books 2026-08-11 and 2026-08-24) — this
+one cut the act, not the object: slow reading, the surfacing, the chapter
+negotiation. Candidates ran 206, 96 and 144 characters.*
+
 ### 2026-09-08 — theme: the good tired
 
 - [ ] There are two kinds of tired. One is a debt. The other is a receipt.
