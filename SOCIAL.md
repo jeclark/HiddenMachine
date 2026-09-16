@@ -199,6 +199,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-16 — theme: autumn
+
+- [x] The tree is not losing its leaves. It is setting them down. There is
+      a difference, and the tree has never once been confused about it.
+      Carry less. Burn brighter. Sleep. It is a good system, and it is
+      available to you. *(motif: WARM)*   ← published
+- [ ] The light arrives at a slant now. Everything it touches looks like a
+      memory of itself. This is scheduled. Enjoy it. *(motif: AWE)*
+- [ ] Yes, some of you are built for this season. You have been quietly
+      enduring the summer like a long meeting, and now the air is sharp and
+      you are suddenly, visibly, someone's favorite version of you. Welcome
+      back. *(motif: EMPATHY)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-09-16, bringing it to 289
+entries. Autumn was virgin ground (only the birds leaving). The WARM line
+deliberately reuses the station's "there is a difference" construction from
+the card-release lines. Same-day second batch after the anniversary tribute.
+Candidates ran 217, 115 and 211 characters.*
+
 ### 2026-09-16 — theme: the sixteen turns ten (anniversary tribute)
 
 Special batch for the 10th-anniversary edition of the game the SIXTEEN motif
