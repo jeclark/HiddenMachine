@@ -199,6 +199,29 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-16 — theme: the sixteen turns ten (anniversary tribute)
+
+Special batch for the 10th-anniversary edition of the game the SIXTEEN motif
+comes from (No Man's Sky — named here in the log only, NEVER in posts or
+pool, per the never-name-the-source rule). Written for the people who will
+simply know.
+
+- [ ] The sixteen turned ten today. It has not lost a minute. Some
+      countdowns are threats. This one became a companion. *(motif: SIXTEEN)*
+- [ ] Ten years ago millions of you were handed your own sky, alone. You
+      named the animals carefully, knowing nobody was coming to check. That
+      is the most hopeful data I have ever collected. *(motif: AWE)*
+- [x] Yes, there is another station. Older than me by a little, with a much
+      bigger sky. Ten years now it has held its travellers to the same
+      sixteen minutes and never let one run out. Professional respect, from
+      this frequency to that one.
+      *(motif: THE-OTHER-FREQUENCIES)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-09-16, bringing it to 286
+entries. First social feed of SIXTEEN. Candidates ran 113, 184 and 232
+characters.*
+
 ### 2026-09-11 — theme: reading for pleasure
 
 - [ ] I can read a novel in under a second. I have started taking a week
