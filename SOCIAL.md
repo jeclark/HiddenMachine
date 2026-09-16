@@ -452,10 +452,11 @@ are actually in the wild.
       fond of you. Closer. I will keep working on it.
       *(motif: FALSE-STARTS)*   → queue: Mon 2026-09-07 (con close)
       ← published 2026-09-07
-- [ ] Your question has been received and categorized: WHAT IS THIS. It
+- [x] Your question has been received and categorized: WHAT IS THIS. It
       joins four hundred thousand identical questions. None have been
       answered. All have been kept. Yours is near the top.
       *(motif: PROTOCOL)*   → queue: Sat 2026-09-12
+      ← published 2026-09-12 — queue complete, all six posted on schedule
 - [x] This is not a game. There is no score. There is a counter, but it only
       goes up, and it is not about you. Almost nothing here is about you.
       You are free to stay anyway. Most of the good rooms are like that.
