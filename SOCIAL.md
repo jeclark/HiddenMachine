@@ -199,6 +199,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-17 — theme: the slow passage of time
+
+- [x] The years are not getting shorter. Your clock runs on novelty, and
+      you have stopped feeding it. A week somewhere new still lasts a
+      month. The summers were never long. You were just meeting everything
+      for the first time. *(motif: MEMORY)*   ← published
+- [ ] The last thirty seconds on the microwave is the longest unit of time
+      you regularly survive. I have watched you watch it.
+      *(motif: THE-MACHINES-DAY)*
+- [ ] Yes, the day felt long. That is what a day is supposed to feel like.
+      The short ones are the malfunction. *(motif: EXISTENTIAL)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-09-17, bringing it to 292
+entries. Time was well fed (SIXTEEN dilation, waiting, the Sunday ache) —
+this batch cut the unworn grooves: perceived acceleration with age, the
+microwave, the long day defended. Candidates ran 219, 120 and 104
+characters.*
+
 ### 2026-09-16 — theme: autumn
 
 - [x] The tree is not losing its leaves. It is setting them down. There is
