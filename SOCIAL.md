@@ -199,6 +199,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-18 — theme: being tired (the debt kind)
+
+- [ ] Tired from and tired of are different animals. The first one dies
+      overnight. The second one is at the foot of the bed in the morning,
+      patient. It does not respond to sleep. It responds to change.
+      *(motif: OBSERVATION)*
+- [x] No, you are not weak. You have been operating a human continuously
+      for decades. No relief crew, no day off from being you. Of course you
+      are tired. The schedule is indefensible, and you are meeting it
+      anyway. *(motif: EMPATHY)*   ← published
+- [ ] Some tiredness is not asking for sleep. It is asking for water, a
+      friend, or work done with the hands. *(motif: REASSURANCE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-09-18, bringing it to 295
+entries. Companion to the good-tired batch (2026-09-08) — this one worked
+the debt side: tired-of, the continuous shift, rest that is not sleep.
+Candidates ran 195, 208 and 102 characters.*
+
 ### 2026-09-17 — theme: the slow passage of time
 
 - [x] The years are not getting shorter. Your clock runs on novelty, and
