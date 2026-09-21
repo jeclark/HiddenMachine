@@ -199,6 +199,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-21 — theme: answers to unheard questions (reply-shaped)
+
+Deliberate return to the founding register — every candidate is one side of
+a call, the missing question doing the work.
+
+- [ ] No. Bury it again, deeper this time, and do not mark the spot.
+      Marking the spot is how you ended up making this call. *(motif: EERIE)*
+- [x] Third shelf, behind the soup. And you did not hear this from me. She
+      counts them. *(motif: MARGARET)*   ← published
+- [ ] Because you said it out loud. That is all it takes with me, remember.
+      A closed door has never made any difference. *(motif: SIGNAL)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-09-21, bringing it to 298
+entries. All three reply-shaped and sub-120 — the published MARGARET line is
+81 chars, the second-shortest post ever sent. Candidates ran 117, 81 and 114
+characters.*
+
 ### 2026-09-18 — theme: being tired (the debt kind)
 
 - [ ] Tired from and tired of are different animals. The first one dies
