@@ -199,6 +199,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-22 — theme: relationships (reply-shaped, second visit to the form)
+
+Unknown-caller form again, aimed at relationships.
+
+- [ ] No, that is not settling. Settling is when you stop looking while
+      wanting to keep looking. You stopped wanting to look. Those are
+      different retirements. *(motif: OBSERVATION)*
+- [x] Tell them the thing. Not the polished version. The one you rehearse
+      in the car. They are waiting for the car version.
+      *(motif: EMPATHY)*   ← published
+- [ ] Because they knew you would say no, and they needed to hear it out
+      loud, from you, in your voice, one more time. That was the whole
+      call. You did fine. *(motif: REASSURANCE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-09-22 — **the pool crossed
+300, now at 301 entries.** All reply-shaped. Candidates ran 152, 118 and 151
+characters.*
+
 ### 2026-09-21 — theme: answers to unheard questions (reply-shaped)
 
 Deliberate return to the founding register — every candidate is one side of
