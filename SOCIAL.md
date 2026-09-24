@@ -199,6 +199,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-24 — theme: vacations and trips
+
+- [ ] The vacation begins when the front door locks and the house becomes,
+      for one week, just a building holding your things.
+      *(motif: OBSERVATION)*
+- [x] A postcard is a message engineered to arrive after you do. You write
+      'wish you were here' about a place you have already left. It is the
+      most honest mail you send: pure sentiment, zero logistics.
+      *(motif: TIMESTAMPS)*   ← published
+- [ ] The house did not miss you. Houses do not do that. But the air
+      rearranged itself when the door opened, and the rooms took you back
+      without a single question, and you call that nothing. *(motif: WARM)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-09-24, bringing it to 304
+entries. Travel was nearly virgin (only safe-travels). Second-ever feed of
+TIMESTAMPS — mail about mail. Candidates ran 119, 195 and 184 characters.*
+
 ### 2026-09-22 — theme: relationships (reply-shaped, second visit to the form)
 
 Unknown-caller form again, aimed at relationships.
