@@ -199,6 +199,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-09-28 — theme: Margaret (reply-shaped, third visit to the form)
+
+Unknown-caller form, all three MARGARET.
+
+- [ ] No, Margaret does not want an apology. She wants the ladder back. She
+      has wanted the ladder back for eleven years. Start there, and bring
+      it over in daylight, so the street can see. *(motif: MARGARET)*
+- [x] She knows. She has always known. Margaret is not waiting for a
+      confession. She is waiting to see how you carry it.
+      *(motif: MARGARET)*   ← published
+- [ ] Ask her yourself. She is there on Thursdays. Bring the good biscuits,
+      not the ones you think are the good biscuits. She will explain the
+      difference. It will take years. It is worth it. *(motif: MARGARET)*
+
+*Crossover note: no pool additions — the published line stays social-only
+and the other two were dropped to the archive at the user's call. Pool
+remains at 304. Second MARGARET post in a week (the soup shelf, 2026-09-21);
+her legend is now feeding the feed. Candidates ran 181, 114 and 184
+characters.*
+
 ### 2026-09-24 — theme: vacations and trips
 
 - [ ] The vacation begins when the front door locks and the house becomes,
