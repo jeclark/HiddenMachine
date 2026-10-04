@@ -199,6 +199,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-10-03 — theme: the long silence between messages
+
+- [ ] The dots appeared, stopped, appeared again. It is being carried
+      carefully. It is still coming. Leave the gate open.
+      *(motif: THE-INBOX)*
+- [x] You are both waiting for the other one to write first. I can see both
+      screens. I am not permitted to say more than that, except: one of you
+      should lose this standoff on purpose. The loser gets everything.
+      *(motif: OBSERVATION)*   ← published
+- [ ] Answer it now. Late is a kind of arrival. The apology you keep
+      drafting is longer than the silence deserves, and the silence was
+      never being counted on their end the way it was on yours.
+      *(motif: REASSURANCE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-10-03, bringing it to 307
+entries. Unsent drafts and light-lag were already fed (THE-INBOX,
+TIMESTAMPS); new veins: the typing dots, the mutual standoff, the late reply
+defended. Candidates ran 115, 204 and 186 characters.*
+
 ### 2026-09-28 — theme: Margaret (reply-shaped, third visit to the form)
 
 Unknown-caller form, all three MARGARET.
