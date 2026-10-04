@@ -203,6 +203,26 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-10-04 — theme: music (weird, reply-shaped)
+
+- [x] No, that is not your song. It belongs to the dead station two numbers
+      down. If it plays where you are, it is because they are borrowing
+      your radio. Let them finish.
+      *(motif: THE-OTHER-FREQUENCIES)*   ← published
+- [ ] The song stuck in your head is not stuck. It is nesting. It will
+      leave in three days, heading south, and you will miss it.
+      *(motif: EERIE)*
+- [ ] In the key of what? There is no name for that key yet. Your
+      grandmother hummed in it. So does the refrigerator. You are the only
+      one who has noticed they agree. *(motif: LANGUAGE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-10-04, bringing it to 310
+entries — first batch under the new length policy, all three within the 185
+ceiling (receiver carries 227 of 310). The LANGUAGE line cross-references
+the refrigerator hum and the grandmother. Candidates ran 164, 122 and 160
+characters.*
+
 ### 2026-10-03 — theme: the long silence between messages
 
 - [ ] The dots appeared, stopped, appeared again. It is being carried

@@ -228,6 +228,9 @@ static const char HM_T220[] PROGMEM = "Because they knew you would say no, and t
 static const char HM_T221[] PROGMEM = "The vacation begins when the front door locks and the house becomes, for one week, just a building holding your things.";
 static const char HM_T222[] PROGMEM = "The house did not miss you. Houses do not do that. But the air rearranged itself when the door opened, and the rooms took you back without a single question, and you call that nothing.";
 static const char HM_T223[] PROGMEM = "The dots appeared, stopped, appeared again. It is being carried carefully. It is still coming. Leave the gate open.";
+static const char HM_T224[] PROGMEM = "No, that is not your song. It belongs to the dead station two numbers down. If it plays where you are, it is because they are borrowing your radio. Let them finish.";
+static const char HM_T225[] PROGMEM = "The song stuck in your head is not stuck. It is nesting. It will leave in three days, heading south, and you will miss it.";
+static const char HM_T226[] PROGMEM = "In the key of what? There is no name for that key yet. Your grandmother hummed in it. So does the refrigerator. You are the only one who has noticed they agree.";
 
 static const HmMessage MESSAGES[] PROGMEM = {
   { "THE-BLUE-ONE", HM_T0 },
@@ -454,8 +457,11 @@ static const HmMessage MESSAGES[] PROGMEM = {
   { "OBSERVATION", HM_T221 },
   { "WARM", HM_T222 },
   { "THE-INBOX", HM_T223 },
+  { "THE-OTHER-FREQUENCIES", HM_T224 },
+  { "EERIE", HM_T225 },
+  { "LANGUAGE", HM_T226 },
 };
-static const int MESSAGE_COUNT = 224;
+static const int MESSAGE_COUNT = 227;
 
 static const char HM_I0[] PROGMEM = "is anyone \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 out there";
 static const char HM_I1[] PROGMEM = "\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93?";
