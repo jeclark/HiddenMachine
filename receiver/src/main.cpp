@@ -41,11 +41,17 @@ static const int WAVE_Y = 196, WAVE_H = 26;
 static const int RULE2_Y = 226, FOOT_Y = 229;
 
 struct FontTier { const uint8_t* vlw; int size; int lineH; int maxLines; };
+// every tier holds the 5-line / 22px-rhythm envelope so the text block is
+// visually constant; size tracks message length monotonically. The 9px
+// tier is the emergency tail for the longest transmissions (6 lines max).
 static const FontTier TIERS[] = {
   { FontL16, 16, 22, 5 },
-  { FontL13, 13, 18, 6 },
-  { FontL11, 11, 15, 7 },
+  { FontL14, 14, 22, 5 },
+  { FontL12, 12, 22, 5 },
+  { FontR10, 10, 22, 5 },
+  { FontR9,   9, 18, 6 },
 };
+static const int NTIERS = 5;
 
 // ---- transmission state ----
 static const int MAXCP = 420;
@@ -134,6 +140,9 @@ static void eraseCursor() {
 }
 
 static void drawCursor() {
+  // a message that exactly fills the last line pushes the cursor cell past
+  // the envelope, into the meta row - park it invisible instead
+  if (lineOf[cursorCell] >= TIERS[tierIdx].maxLines) return;
   int sz = TIERS[tierIdx].size;
   int x = MX + colOf[cursorCell] * adv;
   int y = MSG_Y + lineOf[cursorCell] * TIERS[tierIdx].lineH;
@@ -286,8 +295,8 @@ static void goNext(const char* cause) {
   Serial.printf("[%lu] advance (%s) -> msg %d, heap %u\n",
                 (unsigned long)millis(), cause, i, (unsigned)ESP.getFreeHeap());
   nCp = utf8Decode(MESSAGES[i].text, cps, MAXCP);
-  for (tierIdx = 0; tierIdx < 2; tierIdx++) { loadTier(); if (wrapFits()) break; }
-  if (tierIdx == 2) { loadTier(); wrapFits(); }
+  for (tierIdx = 0; tierIdx < NTIERS - 1; tierIdx++) { loadTier(); if (wrapFits()) break; }
+  if (tierIdx == NTIERS - 1) { loadTier(); wrapFits(); }
   tft.fillRect(MX, MSG_Y, UW, MSG_H, HM_BG);
   pos = 0; prevDone = 0; cursorDrawn = -1;
   phase = DECODING;
