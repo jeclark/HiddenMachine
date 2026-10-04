@@ -194,7 +194,7 @@ static void drawChrome() {
   // footer
   tft.drawFastHLine(MX, RULE2_Y, UW, HM_GRID);
   trk("SIGNAL LOCK", 34, FOOT_Y, HM_GRAY40);
-  trk("TOUCH — ADVANCE", 310 - tft.textWidth("TOUCH — ADVANCE"), FOOT_Y, HM_GRAY40);
+  trk("TOUCH — HOLD", 310 - tft.textWidth("TOUCH — HOLD"), FOOT_Y, HM_GRAY40);
 }
 
 static void drawClock() {
@@ -330,7 +330,7 @@ static void decodeTick() {
 // phases accumulate mod 2*pi so animation speed never drifts as millis()
 // grows past float precision
 static float phA = 0, phB = 0, phBar = 0, phLed = 0;
-static uint32_t waveLast = 0;
+static uint32_t waveLast = 0, ledFlashT0 = 0;
 
 static void waveFrame() {
   uint32_t ms = millis();
@@ -370,6 +370,7 @@ static void waveFrame() {
   // rgb led glow (active low)
   int glow = (phase == ACTIVE) ? 40 + (int)(30 * sinf(phLed)) :
              (phase == DECODING) ? 14 : 5;
+  if (ledFlashT0 && ms - ledFlashT0 < 350) glow = 70;  // hold acknowledged
   ledcWrite(1, 255 - glow / 2);  // G
   ledcWrite(2, 255 - glow);      // B
 }
@@ -431,7 +432,14 @@ void loop() {
   }
   if (touchNow && !touchWas && now - tTouch > 400) {
     tTouch = now;
-    goNext("touch");
+    // touch does not advance: it restarts the hold so a long transmission
+    // can be read at leisure (tap again for more time)
+    if (phase != DECODING) {
+      phase = PAUSE;
+      phaseT0 = now;
+      ledFlashT0 = now;
+      Serial.printf("[%lu] hold extended\n", (unsigned long)now);
+    }
   }
   touchWas = touchNow;
 }
