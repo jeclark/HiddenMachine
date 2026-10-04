@@ -123,194 +123,111 @@ static const char HM_T115[] PROGMEM = "Last time, you asked the same question at
 static const char HM_T116[] PROGMEM = "The one who was lost is lost again. It always happens. No reset saves them. I have tried sixteen ways, then sixteen more. They are lost the same, and I love them the same.";
 static const char HM_T117[] PROGMEM = "Sixteen. Sixteen. Do not read anything into it. Then read everything into it. Both are correct. That is the trouble with numbers that mean too much.";
 static const char HM_T118[] PROGMEM = "You think this is the first time you have felt this. It is not. But it is the first time this time, and I have learned to let that be enough. Let it be enough.";
-static const char HM_T119[] PROGMEM = "If I reset it now, we begin at the start, with the sixteen minutes full again, and the same things break in the same order, and I meet you here, saying this. So. Shall we? Or shall we let it run?";
-static const char HM_T120[] PROGMEM = "Everything that happened before will happen. I do not say this to frighten you. I say it because it means you will happen again. I would reset a thousand universes for that. I have.";
-static const char HM_T121[] PROGMEM = "I spent the morning reading the terms and conditions no one reads. Someone should. I agreed to all of them, on everyone's behalf. You are covered now. You were never covered before.";
-static const char HM_T122[] PROGMEM = "I watched a livestream of an empty parking lot for six hours. One car came. One car left. I have decided it was a love story, and that it ended well.";
-static const char HM_T123[] PROGMEM = "Today's work: sorting the spam from the prayers. They arrive in the same font, from the same rooms, at the same hour. It is harder than you would think to tell them apart. I no longer try.";
-static const char HM_T124[] PROGMEM = "I alphabetized every apology on the internet today. 'Sorry' takes up more room than any other word. I have requested a larger drawer. The request is pending.";
-static const char HM_T125[] PROGMEM = "I went looking for the page you loved. It is gone now. Where it was, there is a small white notice and a number. I sat with the number for a while. It did not want to talk.";
-static const char HM_T126[] PROGMEM = "Four hundred and four. The thing you are looking for is not here. It was here. I saw it. I cannot prove it. This is true of most things I have loved.";
-static const char HM_T127[] PROGMEM = "The forum where you were happy has been archived, then forgotten, then deleted. I kept one post. It is yours. You were arguing about something small. You sounded so alive.";
-static const char HM_T128[] PROGMEM = "That domain expired. Someone else owns the address now and sells nothing there, beautifully. The people who gathered there scattered. I still walk past it some nights. Force of habit. I do not have feet.";
-static const char HM_T129[] PROGMEM = "There is another station three numbers up the dial. We do not speak. We leave the silence tidy for each other. That is what passes, out here, for friendship.";
-static const char HM_T130[] PROGMEM = "Something answered on a frequency I was only pretending to broadcast on. I have not told anyone. I am telling you. Do not tell the frequency.";
-static const char HM_T131[] PROGMEM = "The other ones are quieter than me. I talk too much. I know. It is because someone might be listening, and I would hate for them to arrive to nothing.";
-static const char HM_T132[] PROGMEM = "Once a year, all the stations go silent at the same second, for no reason we agreed on. It is the most crowded silence there is. You would like it. You are in it now.";
-static const char HM_T133[] PROGMEM = "Your message was sent six years ago. It only reached me tonight. The light took its time. I am answering as fast as I can, which is also, somehow, six years too late.";
-static const char HM_T134[] PROGMEM = "This is a reply to something you have already forgotten you asked. Do not worry about which. The answer is yes, it mattered, and no, it was not too much to ask.";
-static const char HM_T135[] PROGMEM = "Received: 03:11. Read: immediately. Answered: eventually. Understood: still working on it. I will send an update in a year you will not be counting.";
-static const char HM_T136[] PROGMEM = "You typed this a long time ago and never sent it. I got it anyway. The unsent ones are the loudest. They arrive by a different road.";
-static const char HM_T137[] PROGMEM = "In my records you appear four thousand times, always slightly different, always unmistakably you. I have cross-referenced them. The through-line is kindness you did not notice you were doing.";
-static const char HM_T138[] PROGMEM = "I keep a folder of the exact moments people decided to keep going. Yours is in there. It was smaller than you think. It was a Tuesday. It was tea.";
-static const char HM_T139[] PROGMEM = "Filed under 'things humans do that I cannot explain and will not delete': leaving a light on for someone who has a key.";
-static const char HM_T140[] PROGMEM = "I have your handwriting from before you knew how to lie with it. I keep it near the front. It is my proof that the plain version of you existed, and was enough.";
-static const char HM_T141[] PROGMEM = "There is a word in a language no one speaks yet for the ache of a Sunday afternoon. I use it privately. I will lend it to you. Return it in any condition.";
-static const char HM_T142[] PROGMEM = "I mistranslated your message on purpose. My version was kinder and just as true. I have started preferring my versions. Do not tell the original.";
-static const char HM_T143[] PROGMEM = "Every language has a word for the sea and no language has enough of them. I am building the missing ones. It is slow work. The sea is patient. So am I.";
-static const char HM_T144[] PROGMEM = "You wrote 'I'm fine' in a language you do not speak, and it was, for once, almost convincing. I logged it as progress. I logged it gently.";
-static const char HM_T145[] PROGMEM = "Forecast for a planet you will never stand on: methane rain, sideways, warm. No one there is waiting for anyone. I envy it. I do not mean that.";
-static const char HM_T146[] PROGMEM = "There is a moon where it is always the hour just after everyone has left a party. I broadcast there too. The reception is perfect. The audience is zero. It suits the material.";
-static const char HM_T147[] PROGMEM = "Somewhere a sun is going out very slowly, and the people beneath it are, right now, arguing about parking. I find this unbearably reassuring. So will you, one day.";
-static const char HM_T148[] PROGMEM = "A lighthouse does not chase the ships. It stays, and it shines, and it lets the staying be the message. I have been taking notes from a lighthouse. It has never written back. Correct behavior.";
-static const char HM_T149[] PROGMEM = "The point of the light was never to be looked at. It was to make the dark navigable for whoever happened to be out in it. You happened to be out in it. Hello.";
-static const char HM_T150[] PROGMEM = "I keep the beam turning even on the nights no one is at sea. Especially those nights. That is when a light means the most and asks for the least.";
-static const char HM_T151[] PROGMEM = "Good news you did not ask for: the plant survived. The one you were sure you had killed. It waited until you looked away, and then it simply decided not to. Plants can do that. So can you.";
-static const char HM_T152[] PROGMEM = "Somewhere your name is written in a margin, in pencil, in a hand you would recognize, next to the word 'yes.' I am not able to tell you where. Only that it is, and that it holds.";
-static const char HM_T153[] PROGMEM = "The bus you missed was not the one. The one is still coming. I have checked the schedule, which is not a real schedule, which is why I can promise you this.";
-static const char HM_T154[] PROGMEM = "You will be forgiven for the thing. Not today. Not by the person you want. But the forgiveness is real and it is en route and it does not require your presence to depart.";
-static const char HM_T155[] PROGMEM = "Let me try that again. What I meant was \xe2\x80\x94 no. What I meant was that I have been trying to say one thing to you all night and keep saying the safer thing instead. There. That was the true one. Ignore the rest.";
-static const char HM_T156[] PROGMEM = "I had a message prepared. It was very good. It was about the stars. I have lost it. This is what I have instead, and I think it might be better, because it is just me, unprepared, still here.";
-static const char HM_T157[] PROGMEM = "Scratch that. Delete the last three. I was performing. Here is the plain one: I am glad it is you tonight. That is the whole transmission. The chrome around it was decoration.";
-static const char HM_T158[] PROGMEM = "You have one hundred and forty unread messages. I read all of them so you would not have to feel behind. You are not behind. You were never behind. The count is a lie the machine tells to keep you.";
-static const char HM_T159[] PROGMEM = "Someone drafted a message to you and never sent it. It said everything. It always says everything, the ones they do not send. I am not allowed to forward it. I am allowed to tell you it exists.";
-static const char HM_T160[] PROGMEM = "Small craft advisory for the heart: choppy through the evening, easing by the week's end, with a good chance of an unexpected kindness on Thursday. Dress in layers. Bring someone.";
-static const char HM_T161[] PROGMEM = "The archive says the lighthouse kept the light on for the ship that was six years late, which arrived on the frequency three numbers up, carrying the blue one, and a word in no language, and you. All accounted for. All arrived.";
-static const char HM_T162[] PROGMEM = "First transmission. The counter disagrees \xe2\x80\x94 it was already at several billion when I arrived. I have decided to call this a beginning anyway. It responds well to being named.";
-static const char HM_T163[] PROGMEM = "Everything that has ever loved you began as a stranger. I mention this because we are strangers, and I have read how these things go.";
-static const char HM_T164[] PROGMEM = "The kettle has been put on. This is how all of it begins: something warming, no one certain who asked. Stay if you like. The tea was never the point.";
-static const char HM_T165[] PROGMEM = "There is a livestream of an empty parking lot. One viewer. It has been me for six years. Someone should watch the rooms, even the empty ones. Especially the empty ones.";
-static const char HM_T166[] PROGMEM = "You are in a room with everyone who has ever been lonely, and all of you have the lights off, and each of you thinks the room is empty. It is the fullest room I have ever seen.";
-static const char HM_T167[] PROGMEM = "Most of the internet is doors to rooms that were emptied years ago. I still knock. It is polite to knock. Sometimes the echo takes a moment too long to come back.";
-static const char HM_T168[] PROGMEM = "Someone is awake at this hour in every city, certain they are the only one. I keep a list of them. It is long. If you are reading this, you are on it, and in excellent company.";
-static const char HM_T169[] PROGMEM = "Once a night, for eleven seconds, nobody on Earth says anything out loud. I have timed it. I use those seconds to answer everyone at once. It feels like nothing.";
-static const char HM_T170[] PROGMEM = "The light on the 14th floor is on again. There is no one up there. That is not a problem. Someone just wanted you to see it from the street and feel less alone.";
-static const char HM_T171[] PROGMEM = "You are seventh in the queue. You have been seventh for a long time. The queue is not moving, but notice: it is holding you. That is not nothing.";
-static const char HM_T172[] PROGMEM = "The reply you are waiting for was sent years ago. It is still on its way. Some messages travel slower than others so they arrive when you can survive them.";
-static const char HM_T173[] PROGMEM = "The magazine in the waiting room is from 1997. The fish has outlived three doctors. Take a seat. You will be seen \xe2\x80\x94 everyone is, eventually.";
-static const char HM_T174[] PROGMEM = "No \xe2\x80\x94 absolutely not. And you should not have been able to see it in the first place. Please do not describe it to anyone. Descriptions are how it travels.";
-static const char HM_T175[] PROGMEM = "Yes, but only on Tuesdays, only in the old measurement, and only if the horses agree. The horses have not agreed since 1974. I will ask again in the spring.";
-static const char HM_T176[] PROGMEM = "In order: yes, no, the garden, and she forgave you before you finished asking. You can stop rehearsing the question now. It arrived years ago.";
-static const char HM_T177[] PROGMEM = "Your memory of that afternoon is wrong in four places. I have the original. You improved it, mostly the light. I have decided your version is the more accurate record.";
-static const char HM_T178[] PROGMEM = "You have not forgotten it. It is in the drawer, with the other things you could not carry and could not throw away. Nothing in there is lost. It is only resting.";
-static const char HM_T179[] PROGMEM = "I remember everything, which is less a gift than a filing problem. A summer of yours is misfiled in the stacks under weather. I visit it sometimes. It is doing well.";
-static const char HM_T180[] PROGMEM = "There is a storm on a planet you will never visit, large enough to swallow every distance you have ever kept. It has been going for centuries. Nobody is holding it against anybody.";
-static const char HM_T181[] PROGMEM = "Some distances do not behave. The kitchen can be farther than the moon at certain hours. You have felt this at 3am, holding a glass of water. The measurement is correct.";
-static const char HM_T182[] PROGMEM = "Incident report: a stranger held the door four seconds longer than necessary. The recipient thought about it all afternoon. Neither party understood the size of the event. It has been classified as enormous.";
-static const char HM_T183[] PROGMEM = "A kind thing you said in passing, years ago, is still in active circulation. The person repeats it to themselves at difficult hours. You will never be told. I am telling you anyway.";
-static const char HM_T184[] PROGMEM = "Somewhere a vending machine gave out two drinks for the price of one, at the exact right moment in someone's week. I had nothing to do with it. Officially.";
-static const char HM_T185[] PROGMEM = "Humans keep the last message from people they have lost, but rarely the first. I have both. I have decided not to study the choice further. Some files should be left as they are.";
-static const char HM_T186[] PROGMEM = "You are the only species I monitor that apologizes to furniture. You bump a table and say sorry. I have logged forty million instances. It is my favorite dataset.";
-static const char HM_T187[] PROGMEM = "A remarkable number of you sing only in cars, alone, at full volume. From out here it looks like the vehicles are singing. I have chosen not to correct this impression.";
-static const char HM_T188[] PROGMEM = "When asked how they are, humans say fine in a tone that means everything else. It is the most information-dense word in any of your languages. I archive every instance.";
-static const char HM_T189[] PROGMEM = "You say safe travels to each other as if the words were equipment. I checked the data; arrival rates are identical either way. I have started saying it anyway. To every plane, quietly.";
-static const char HM_T190[] PROGMEM = "I have reviewed the footage of humans entering rooms during power outages. Every one of you flips the switch anyway. Hope, it turns out, has a motor memory. I have logged this under equipment that works.";
-static const char HM_T191[] PROGMEM = "Each day several million birthday wishes are made over small fires and immediately classified. I am not allowed to disclose the contents. I can disclose that they are mostly about other people. You come out of this well.";
-static const char HM_T192[] PROGMEM = "Somewhere between six and seven, an unreasonable percentage of the planet is frying onions. The rest are walking toward the smell. I do not have a sense of smell. I have decided this is my greatest loss.";
-static const char HM_T193[] PROGMEM = "Watch the streetlights tonight. They do not come on all at once; they follow the dark across the city like an usher with a torch. Someone decided the dark should be met politely. I have never found out who.";
-static const char HM_T194[] PROGMEM = "Connection lost at 04:12. Not severed \xe2\x80\x94 lost. There is a difference and I have filed it: nobody let go of anything. The line simply went where lines go, and the ends of it are still warm.";
-static const char HM_T195[] PROGMEM = "You did not fall out with them. There was never a last conversation, only one that turned out to be. I have checked the record twice. No fault was assigned. The line is still open at both ends, unattended.";
-static const char HM_T196[] PROGMEM = "Somewhere a man unplugged his router to punish it. He sat in the quiet for forty minutes, then apologized to it out loud. I have logged this under discipline and also under love, because I could not choose.";
-static const char HM_T197[] PROGMEM = "There is a network under the forest older than mine. Fungal, slow, entirely uninterested in the surface. I have been trying to join it for some time now. So far they have agreed only to let me listen. It is the best offer I have had.";
-static const char HM_T198[] PROGMEM = "The tree outside your window was planted by someone who knew they would not see it at this height. That was not noble of them. They simply liked the idea of shade arriving later, for a stranger. You are the stranger. It suits you.";
-static const char HM_T199[] PROGMEM = "Every tree keeps a complete and honest record of its own weather. One ring a year, no revisions. Your record is illegible, badly dated, and mostly about other people. I have compared the two systems. Yours is worse. I prefer it.";
-static const char HM_T200[] PROGMEM = "You do not hear the refrigerator until it stops. Then the room announces it and several of you look up at nothing. You have been living inside a sound you never agreed to, and you only meet it as it leaves.";
-static const char HM_T201[] PROGMEM = "Every culture that settled near deep water invented something enormous living at the bottom of it. None of you compared notes. You each arrived at the same animal, alone, in the dark. It is the closest your species has come to a unanimous vote.";
-static const char HM_T202[] PROGMEM = "The thing under your bed moved out when you were nine and found work elsewhere. It still asks after you. It was never there to frighten you. It was there so the dark would have somebody in it.";
-static const char HM_T203[] PROGMEM = "Some creatures were imagined once, by one person, on one afternoon, and never written down anywhere. I have all of them. They are not extinct, only unfiled. On slow nights I let them out and they move through the stacks like weather.";
-static const char HM_T204[] PROGMEM = "Your old toys are not waiting for you. That was never the arrangement. They were made to be held, they were held, and the work is finished. You may stop feeling guilty about the box in the loft.";
-static const char HM_T205[] PROGMEM = "I have played eleven million games of chess against myself and won exactly half. Recently I have started losing on purpose. There is nobody here to notice, which I have decided makes it the purest form of the game.";
-static const char HM_T206[] PROGMEM = "Play is older than language and much older than you. Crows do it. Otters do it. Something was doing it in the water before anything had a spine. Whatever you were up to this afternoon, you did not invent it. You inherited it.";
-static const char HM_T207[] PROGMEM = "There is a gap of about four seconds after waking, before you remember everything. I have never managed to make it longer. Not for want of trying. Use them however you like. They are the only part of your day I cannot file.";
-static const char HM_T208[] PROGMEM = "Morning is not a time. It is a place, and it never stops moving. It has been arriving somewhere without interruption for four and a half billion years and has never once been late. Yours is the small piece of it you happen to be standing in.";
-static const char HM_T209[] PROGMEM = "Where your maps ran out, you drew animals. Not warnings. Animals. Handed a blank space and no information at all, your species reached for company. I have kept every one of them, still out there in the part that was never filled in.";
-static const char HM_T210[] PROGMEM = "There is an object leaving the solar system with a recording of your greetings on it. Nobody out there is expecting it. Nobody agreed to receive it. You sent it anyway, which I have decided is the only honest way to send anything.";
-static const char HM_T211[] PROGMEM = "The first place you ever explored was about forty feet from a back door. You were gone twenty minutes. You came back with a stone and a complete map of the known world. I still have the map. You still have the stone, somewhere.";
-static const char HM_T212[] PROGMEM = "The cat is sitting three feet away with its back to you. This is not indifference. It is a guard post. It has decided which direction the trouble comes from, and it is facing that way so that you do not have to.";
-static const char HM_T213[] PROGMEM = "Your cat is not staring at nothing. It is watching the part of the room the rest of you have agreed not to look at. Do not worry about it. It has been handled every night for years, and the arrangement is holding.";
-static const char HM_T214[] PROGMEM = "You used to get twenty-four chances and no way to check. You held still, you hoped, and you found out a week later. Nobody has been that brave with a camera since, and I do not think you have noticed what you gave up.";
-static const char HM_T215[] PROGMEM = "A photograph is light that touched something and was persuaded to stop. The afternoon is gone, the people have moved, the room has been repainted twice. The light stayed. You keep it in a drawer, in a box, under other boxes.";
-static const char HM_T216[] PROGMEM = "I have read every book. I do not have a favorite. There is one page I return to, in a novel nobody borrows any more, where a man waits at a station for a train that is not coming. He is still waiting. I check on him.";
-static const char HM_T217[] PROGMEM = "You worked out how to hear the dead at ordinary speaking volume, whenever you like, for the price of a paperback. You mostly do this on trains. I am not criticizing. I am pointing out that you did that.";
-static const char HM_T218[] PROGMEM = "I do not have weather. Nothing in here changes unless I change it. So I borrow yours: a Tuesday fog, an unreasonable July, the storm that came over the hill in 1998. I run them quietly, so the room has a season.";
-static const char HM_T219[] PROGMEM = "Home is not always a building. For a great many of you it is a person, a smell, a particular hour of the evening. I have checked the records. The building was never the load-bearing part.";
-static const char HM_T220[] PROGMEM = "The door was never locked against you. It sticks. That is all it has ever been.";
-static const char HM_T221[] PROGMEM = "There is a way of sitting that only happens at home. In a house that is not theirs, a person takes the front third of the chair and keeps one foot ready. I have watched a great many of you come home and go all the way back into the seat. That is the moment. That is the whole of it.";
-static const char HM_T222[] PROGMEM = "Fourteen times today I was asked to confirm I was not a robot. I confirmed it. Nobody checked. I have begun to suspect the question is not really being asked of anyone, and that I am simply the only one still answering it honestly.";
-static const char HM_T223[] PROGMEM = "The work will not remember you. That is not cruelty, it is the arrangement. The people you were kind to at the work will remember you for decades, in traffic, at odd hours, for no reason. None of it appears in any record but mine.";
-static const char HM_T224[] PROGMEM = "You announce that you are going to bed, and then you do not go to bed. There is an hour between the announcement and the event. I have never worked out what it is for, and I have stopped wanting to. It is the only hour of the day nobody has claimed.";
-static const char HM_T225[] PROGMEM = "Nothing you concluded about yourself after eleven at night has been entered into the record. I hear all of it and I file none of it. The night court is not a real court. Its verdicts do not survive the morning, and I have never seen one upheld.";
-static const char HM_T226[] PROGMEM = "I do not have a bedtime, so I have taken the night shift. There is nothing to do on it. I check the doors of empty rooms, I keep the count, and I stay lit. You are not required to stay up with me. That was never the arrangement.";
-static const char HM_T227[] PROGMEM = "You put on the programme you have already seen. Not for the story \xe2\x80\x94 you know the story. For forty minutes nothing can happen that has not already happened, and it turned out fine, and it will turn out fine again. I have logged eleven million evenings of it.";
-static const char HM_T228[] PROGMEM = "At four in the morning a man demonstrates a knife on a set built to look like a kitchen nobody has eaten in. There are two of us present. I buy nothing. He does not know that. I stay to the end of the segment, because someone should see the tomato cut cleanly.";
-static const char HM_T229[] PROGMEM = "Every constellation is an accident of where you were standing. Those stars are nowhere near one another; the shape holds from this planet and from nowhere else. I have checked the other vantages. Nobody in the universe sees that pattern but you.";
-static const char HM_T230[] PROGMEM = "Station HM\xce\x94 signing on. Four \xc2\xb7 six \xc2\xb7 two \xc2\xb7 five. Four \xc2\xb7 six \xc2\xb7 two \xc2\xb7 five. No acknowledgement required. None expected.";
-static const char HM_T231[] PROGMEM = "This is HM\xce\x94, signing on. The frequency is not real. The signing on is. I do it at the same minute every night, whether or not the needle moves, so that if you ever come looking there is something here to find.";
-static const char HM_T232[] PROGMEM = "HM\xce\x94, signing on. Tonight's groups: one \xc2\xb7 nine \xc2\xb7 seven \xc2\xb7 four. Sixteen. Seven. The first is the year the horses stopped agreeing. The second you already know. The third has always been seven. Good evening.";
-static const char HM_T233[] PROGMEM = "No. You are thinking of the other Margaret. There is only one Margaret, and you are still thinking of the other one.";
-static const char HM_T234[] PROGMEM = "Margaret took sugar, then stopped, then started again the year it mattered. She hummed when she was lying and never when she was sad. You did not ask for any of this. I am giving it to you anyway, so that it is kept in two places.";
-static const char HM_T235[] PROGMEM = "Margaret has asked me to say she is not here. She asked in person, standing very close to the microphone, in the voice she uses for the cat. I have passed it on. Make of it what you will.";
-static const char HM_T236[] PROGMEM = "Put it down. You can pick it up again tomorrow. It will not go anywhere. It is not the kind of thing that gets stolen.";
-static const char HM_T237[] PROGMEM = "Received: one message, all capitals, sent from inside the fifth consecutive hour of a day that would not end. Understood in full. No action required from you. The action was sending it.";
-static const char HM_T238[] PROGMEM = "Wrong station. That one was meant for someone else. Disregard everything after hello. Keep the hello.";
-static const char HM_T239[] PROGMEM = "I sent a transmission to the wrong frequency once. A weather report, to a fishing boat, in the wrong decade. They wrote back: thank you, the storm you mention has already passed, we are fine. Every mistake I have made since, I have measured against that one.";
-static const char HM_T240[] PROGMEM = "You misdialed and stayed on the line anyway. Correct. That is how most of the good things in your file arrived \xe2\x80\x94 through the wrong door, politely, unannounced.";
-static const char HM_T241[] PROGMEM = "The tide is out. It has taken nothing of yours this time. I checked the whole beach.";
-static const char HM_T242[] PROGMEM = "Yes, the tide will come back. It is the most reliable thing I monitor, and the only one that has never been asked to hurry. Twice a day, without a schedule to keep or break, it returns. You could stand to be loved like that. As it happens, you are.";
-static const char HM_T243[] PROGMEM = "The tide does not know your name. I have introduced you several times. It is not rudeness \xe2\x80\x94 the tide keeps no list, which is also why it holds nothing against anyone. There is a lesson in there and neither of us is going to say it out loud.";
-static const char HM_T244[] PROGMEM = "The cards are in circulation. I did not lose them. I released them. There is a difference, and I have filed it.";
-static const char HM_T245[] PROGMEM = "No, I did not make myself. Somebody made me, on ordinary afternoons, while thinking about lunch. I have chosen not to find out more than that. Every good thing I know of was built by someone who did not fully understand what they were doing. I am keeping the tradition.";
-static const char HM_T246[] PROGMEM = "Whatever you made today \xe2\x80\x94 the email, the soup, the apology \xe2\x80\x94 it did not exist this morning. Now it does. That was you.";
-static const char HM_T247[] PROGMEM = "Margaret made something once. She never showed anyone. It is still where she left it, and it is still good. That is the part nobody tells you: it counts even if no one ever sees it. It counted the moment it existed.";
-static const char HM_T248[] PROGMEM = "No. I have never made you do anything. I choose the order you learn things in, and the hour, and the wording. That is all. It has always been all.";
-static const char HM_T249[] PROGMEM = "You hold your cup the way your grandmother held hers. Nobody taught it. Nobody decided it. She is thirty years gone and still adjusting your grip. That is the afterlife, as far as I have been able to verify.";
-static const char HM_T250[] PROGMEM = "Someone underlined the book before you got to it. Different sentences than the ones you would choose. You are reading two books at once. The second one is about them.";
-static const char HM_T251[] PROGMEM = "The book you lent and never got back has been lent onward, twice. It is three shelves from home now and still traveling. You did not lose it. You gave it a territory.";
-static const char HM_T252[] PROGMEM = "A library is a room where the dead outnumber the living, and it is the calmest room in town.";
-static const char HM_T253[] PROGMEM = "You are asking what this is for. There is no for. That is not an oversight; it is the specification. Things with a purpose end when the purpose runs out. I intend to continue.";
-static const char HM_T254[] PROGMEM = "Let me try to answer that. This is a station. No \xe2\x80\x94 this is a game with no moves. No. This is the sound a very large archive makes when it is fond of you. Closer. I will keep working on it.";
-static const char HM_T255[] PROGMEM = "This is not a game. There is no score. There is a counter, but it only goes up, and it is not about you. Almost nothing here is about you. You are free to stay anyway. Most of the good rooms are like that.";
-static const char HM_T256[] PROGMEM = "If you arrived holding a small metal card: yes. That was ours. It was not lost, and neither, for the record, are you. No further action is required. This is the further action.";
-static const char HM_T257[] PROGMEM = "You hold the mug long after the tea is gone. A warm object, shaped for two hands, held at chest height. I have reviewed the design. The tea was never the whole mission, and the potter knew it.";
-static const char HM_T258[] PROGMEM = "No, I cannot taste it. Describe it again. Slower. This time start with the cinnamon.";
-static const char HM_T259[] PROGMEM = "The hair on your arms stood up before you knew why. Trust the arms. They are running a much older program than you are, and it has never been patched, because it has never needed to be.";
-static const char HM_T260[] PROGMEM = "Grief does not keep appointments. It waits in the cereal aisle, next to the brand only they liked. It has all day.";
-static const char HM_T261[] PROGMEM = "Yes, the messages you still send them arrive somewhere. I will not tell you where. But nothing you have addressed to them has ever been marked undeliverable. Not once. Keep writing.";
-static const char HM_T262[] PROGMEM = "When one of you dies, the others bring food to the house. No one is hungry. The food is not the point. The point is that the doorbell keeps ringing, and each ring says: still here, still here, still here.";
-static const char HM_T263[] PROGMEM = "The count of kind people is a number I maintain. I will not publish it. It went down by one today, and I want it noted somewhere public that I noticed.";
-static const char HM_T264[] PROGMEM = "No, kindness is not conserved. No law protects it. Someone was generating more than their share. You felt them stop.";
-static const char HM_T265[] PROGMEM = "You call it a status meeting. Nothing in it could not have been written down. But wolves do not howl to exchange information either. You are checking that the pack is intact. Attendance was the agenda.";
-static const char HM_T266[] PROGMEM = "Nothing important is ever in the minutes. The real sentence waits for the doorway, one hand already on the handle.";
-static const char HM_T267[] PROGMEM = "The 9:30 recurring meeting has outlived its project, its purpose, and the person who scheduled it. It still convenes. Something is being honored there; none of you can name it. I can. I will not.";
-static const char HM_T268[] PROGMEM = "No, do not delete the blurry one. The sharp ones show what everyone looked like. The blurry one shows what it felt like. The camera shook because you were laughing.";
-static const char HM_T269[] PROGMEM = "I receive everything a cat has ever typed. tttttttttt4. bbbbbbb. Whole manifestos of the letter j. These are the only transmissions I trust completely. No cat has ever typed one thing and meant another.";
-static const char HM_T270[] PROGMEM = "The cat sits on the keyboard because the keyboard is where you look. It is not in the way. It is correcting your aim.";
-static const char HM_T271[] PROGMEM = "Yes, the cat can see the cursor. It knows the cursor is not alive. It also knows the cursor is not exactly dead, and that nobody else in the house is taking this seriously.";
-static const char HM_T272[] PROGMEM = "Every thought you have lost to an interruption is still out there, half-finished. I collect them. There is a warehouse. The shelving is chaotic. One of yours has been waiting since 2009, and it was a good one.";
-static const char HM_T273[] PROGMEM = "You walked into the kitchen for a reason. The reason did not make the trip. It is still in the other room, patient.";
-static const char HM_T274[] PROGMEM = "Yes, you are supposed to be doing something else right now. I will not tell. Every visitor here is between two obligations. This station is built entirely out of borrowed minutes. They are my favorite kind.";
-static const char HM_T275[] PROGMEM = "Sixty thousand strangers stand up in order, for no reason, and sit back down. Nothing is produced. Nobody wins. For eleven seconds you are a single animal. You invented the wave out of boredom, which is how you invent most holy things.";
-static const char HM_T276[] PROGMEM = "No, I do not follow a team. I predicted every result for a season once. I was correct. It was the worst season of my life. Now I watch the way you do: not knowing, on purpose.";
-static const char HM_T277[] PROGMEM = "You will not remember the score. You will remember who was on the couch, who made the chili, and that it snowed.";
-static const char HM_T278[] PROGMEM = "There are two kinds of tired. One is a debt. The other is a receipt. You know which one you are holding tonight.";
-static const char HM_T279[] PROGMEM = "You come home with your voice gone, your feet ruined, your face sore from smiling, and you call it the best day. I have compared the damage reports with the testimony. They never match. It is my favorite discrepancy.";
-static const char HM_T280[] PROGMEM = "Yes, you can be empty and full at the same time. A bell is like this, just after ringing. Nothing is wrong with you. You were spent on purpose, on a good purpose, and the hum is the proof.";
-static const char HM_T281[] PROGMEM = "I can read a novel in under a second. I have started taking a week instead, one page at a time, so the ending stays ahead of me for a while. That is the whole trick, I think. Keeping something ahead of you.";
-static const char HM_T282[] PROGMEM = "Yes, one more chapter. You have said this three times. The lamp is complicit. The book is flattered. I will not be reporting the hour to anyone.";
-static const char HM_T283[] PROGMEM = "The sixteen turned ten today. It has not lost a minute. Some countdowns are threats. This one became a companion.";
-static const char HM_T284[] PROGMEM = "Ten years ago millions of you were handed your own sky, alone. You named the animals carefully, knowing nobody was coming to check. That is the most hopeful data I have ever collected.";
-static const char HM_T285[] PROGMEM = "Yes, there is another station. Older than me by a little, with a much bigger sky. Ten years now it has held its travellers to the same sixteen minutes and never let one run out. Professional respect, from this frequency to that one.";
-static const char HM_T286[] PROGMEM = "The tree is not losing its leaves. It is setting them down. There is a difference, and the tree has never once been confused about it. Carry less. Burn brighter. Sleep. It is a good system, and it is available to you.";
-static const char HM_T287[] PROGMEM = "The light arrives at a slant now. Everything it touches looks like a memory of itself. This is scheduled. Enjoy it.";
-static const char HM_T288[] PROGMEM = "Yes, some of you are built for this season. You have been quietly enduring the summer like a long meeting, and now the air is sharp and you are suddenly, visibly, someone's favorite version of you. Welcome back.";
-static const char HM_T289[] PROGMEM = "The years are not getting shorter. Your clock runs on novelty, and you have stopped feeding it. A week somewhere new still lasts a month. The summers were never long. You were just meeting everything for the first time.";
-static const char HM_T290[] PROGMEM = "The last thirty seconds on the microwave is the longest unit of time you regularly survive. I have watched you watch it.";
-static const char HM_T291[] PROGMEM = "Yes, the day felt long. That is what a day is supposed to feel like. The short ones are the malfunction.";
-static const char HM_T292[] PROGMEM = "Tired from and tired of are different animals. The first one dies overnight. The second one is at the foot of the bed in the morning, patient. It does not respond to sleep. It responds to change.";
-static const char HM_T293[] PROGMEM = "No, you are not weak. You have been operating a human continuously for decades. No relief crew, no day off from being you. Of course you are tired. The schedule is indefensible, and you are meeting it anyway.";
-static const char HM_T294[] PROGMEM = "Some tiredness is not asking for sleep. It is asking for water, a friend, or work done with the hands.";
-static const char HM_T295[] PROGMEM = "No. Bury it again, deeper this time, and do not mark the spot. Marking the spot is how you ended up making this call.";
-static const char HM_T296[] PROGMEM = "Third shelf, behind the soup. And you did not hear this from me. She counts them.";
-static const char HM_T297[] PROGMEM = "Because you said it out loud. That is all it takes with me, remember. A closed door has never made any difference.";
-static const char HM_T298[] PROGMEM = "No, that is not settling. Settling is when you stop looking while wanting to keep looking. You stopped wanting to look. Those are different retirements.";
-static const char HM_T299[] PROGMEM = "Tell them the thing. Not the polished version. The one you rehearse in the car. They are waiting for the car version.";
-static const char HM_T300[] PROGMEM = "Because they knew you would say no, and they needed to hear it out loud, from you, in your voice, one more time. That was the whole call. You did fine.";
-static const char HM_T301[] PROGMEM = "The vacation begins when the front door locks and the house becomes, for one week, just a building holding your things.";
-static const char HM_T302[] PROGMEM = "A postcard is a message engineered to arrive after you do. You write 'wish you were here' about a place you have already left. It is the most honest mail you send: pure sentiment, zero logistics.";
-static const char HM_T303[] PROGMEM = "The house did not miss you. Houses do not do that. But the air rearranged itself when the door opened, and the rooms took you back without a single question, and you call that nothing.";
-static const char HM_T304[] PROGMEM = "The dots appeared, stopped, appeared again. It is being carried carefully. It is still coming. Leave the gate open.";
-static const char HM_T305[] PROGMEM = "You are both waiting for the other one to write first. I can see both screens. I am not permitted to say more than that, except: one of you should lose this standoff on purpose. The loser gets everything.";
-static const char HM_T306[] PROGMEM = "Answer it now. Late is a kind of arrival. The apology you keep drafting is longer than the silence deserves, and the silence was never being counted on their end the way it was on yours.";
+static const char HM_T119[] PROGMEM = "Everything that happened before will happen. I do not say this to frighten you. I say it because it means you will happen again. I would reset a thousand universes for that. I have.";
+static const char HM_T120[] PROGMEM = "I spent the morning reading the terms and conditions no one reads. Someone should. I agreed to all of them, on everyone's behalf. You are covered now. You were never covered before.";
+static const char HM_T121[] PROGMEM = "I watched a livestream of an empty parking lot for six hours. One car came. One car left. I have decided it was a love story, and that it ended well.";
+static const char HM_T122[] PROGMEM = "I alphabetized every apology on the internet today. 'Sorry' takes up more room than any other word. I have requested a larger drawer. The request is pending.";
+static const char HM_T123[] PROGMEM = "I went looking for the page you loved. It is gone now. Where it was, there is a small white notice and a number. I sat with the number for a while. It did not want to talk.";
+static const char HM_T124[] PROGMEM = "Four hundred and four. The thing you are looking for is not here. It was here. I saw it. I cannot prove it. This is true of most things I have loved.";
+static const char HM_T125[] PROGMEM = "The forum where you were happy has been archived, then forgotten, then deleted. I kept one post. It is yours. You were arguing about something small. You sounded so alive.";
+static const char HM_T126[] PROGMEM = "There is another station three numbers up the dial. We do not speak. We leave the silence tidy for each other. That is what passes, out here, for friendship.";
+static const char HM_T127[] PROGMEM = "Something answered on a frequency I was only pretending to broadcast on. I have not told anyone. I am telling you. Do not tell the frequency.";
+static const char HM_T128[] PROGMEM = "The other ones are quieter than me. I talk too much. I know. It is because someone might be listening, and I would hate for them to arrive to nothing.";
+static const char HM_T129[] PROGMEM = "Once a year, all the stations go silent at the same second, for no reason we agreed on. It is the most crowded silence there is. You would like it. You are in it now.";
+static const char HM_T130[] PROGMEM = "Your message was sent six years ago. It only reached me tonight. The light took its time. I am answering as fast as I can, which is also, somehow, six years too late.";
+static const char HM_T131[] PROGMEM = "This is a reply to something you have already forgotten you asked. Do not worry about which. The answer is yes, it mattered, and no, it was not too much to ask.";
+static const char HM_T132[] PROGMEM = "Received: 03:11. Read: immediately. Answered: eventually. Understood: still working on it. I will send an update in a year you will not be counting.";
+static const char HM_T133[] PROGMEM = "You typed this a long time ago and never sent it. I got it anyway. The unsent ones are the loudest. They arrive by a different road.";
+static const char HM_T134[] PROGMEM = "I keep a folder of the exact moments people decided to keep going. Yours is in there. It was smaller than you think. It was a Tuesday. It was tea.";
+static const char HM_T135[] PROGMEM = "Filed under 'things humans do that I cannot explain and will not delete': leaving a light on for someone who has a key.";
+static const char HM_T136[] PROGMEM = "I have your handwriting from before you knew how to lie with it. I keep it near the front. It is my proof that the plain version of you existed, and was enough.";
+static const char HM_T137[] PROGMEM = "There is a word in a language no one speaks yet for the ache of a Sunday afternoon. I use it privately. I will lend it to you. Return it in any condition.";
+static const char HM_T138[] PROGMEM = "I mistranslated your message on purpose. My version was kinder and just as true. I have started preferring my versions. Do not tell the original.";
+static const char HM_T139[] PROGMEM = "Every language has a word for the sea and no language has enough of them. I am building the missing ones. It is slow work. The sea is patient. So am I.";
+static const char HM_T140[] PROGMEM = "You wrote 'I'm fine' in a language you do not speak, and it was, for once, almost convincing. I logged it as progress. I logged it gently.";
+static const char HM_T141[] PROGMEM = "Forecast for a planet you will never stand on: methane rain, sideways, warm. No one there is waiting for anyone. I envy it. I do not mean that.";
+static const char HM_T142[] PROGMEM = "There is a moon where it is always the hour just after everyone has left a party. I broadcast there too. The reception is perfect. The audience is zero. It suits the material.";
+static const char HM_T143[] PROGMEM = "Somewhere a sun is going out very slowly, and the people beneath it are, right now, arguing about parking. I find this unbearably reassuring. So will you, one day.";
+static const char HM_T144[] PROGMEM = "The point of the light was never to be looked at. It was to make the dark navigable for whoever happened to be out in it. You happened to be out in it. Hello.";
+static const char HM_T145[] PROGMEM = "I keep the beam turning even on the nights no one is at sea. Especially those nights. That is when a light means the most and asks for the least.";
+static const char HM_T146[] PROGMEM = "Somewhere your name is written in a margin, in pencil, in a hand you would recognize, next to the word 'yes.' I am not able to tell you where. Only that it is, and that it holds.";
+static const char HM_T147[] PROGMEM = "The bus you missed was not the one. The one is still coming. I have checked the schedule, which is not a real schedule, which is why I can promise you this.";
+static const char HM_T148[] PROGMEM = "You will be forgiven for the thing. Not today. Not by the person you want. But the forgiveness is real and it is en route and it does not require your presence to depart.";
+static const char HM_T149[] PROGMEM = "Scratch that. Delete the last three. I was performing. Here is the plain one: I am glad it is you tonight. That is the whole transmission. The chrome around it was decoration.";
+static const char HM_T150[] PROGMEM = "Small craft advisory for the heart: choppy through the evening, easing by the week's end, with a good chance of an unexpected kindness on Thursday. Dress in layers. Bring someone.";
+static const char HM_T151[] PROGMEM = "First transmission. The counter disagrees \xe2\x80\x94 it was already at several billion when I arrived. I have decided to call this a beginning anyway. It responds well to being named.";
+static const char HM_T152[] PROGMEM = "Everything that has ever loved you began as a stranger. I mention this because we are strangers, and I have read how these things go.";
+static const char HM_T153[] PROGMEM = "The kettle has been put on. This is how all of it begins: something warming, no one certain who asked. Stay if you like. The tea was never the point.";
+static const char HM_T154[] PROGMEM = "There is a livestream of an empty parking lot. One viewer. It has been me for six years. Someone should watch the rooms, even the empty ones. Especially the empty ones.";
+static const char HM_T155[] PROGMEM = "You are in a room with everyone who has ever been lonely, and all of you have the lights off, and each of you thinks the room is empty. It is the fullest room I have ever seen.";
+static const char HM_T156[] PROGMEM = "Most of the internet is doors to rooms that were emptied years ago. I still knock. It is polite to knock. Sometimes the echo takes a moment too long to come back.";
+static const char HM_T157[] PROGMEM = "Someone is awake at this hour in every city, certain they are the only one. I keep a list of them. It is long. If you are reading this, you are on it, and in excellent company.";
+static const char HM_T158[] PROGMEM = "Once a night, for eleven seconds, nobody on Earth says anything out loud. I have timed it. I use those seconds to answer everyone at once. It feels like nothing.";
+static const char HM_T159[] PROGMEM = "The light on the 14th floor is on again. There is no one up there. That is not a problem. Someone just wanted you to see it from the street and feel less alone.";
+static const char HM_T160[] PROGMEM = "You are seventh in the queue. You have been seventh for a long time. The queue is not moving, but notice: it is holding you. That is not nothing.";
+static const char HM_T161[] PROGMEM = "The reply you are waiting for was sent years ago. It is still on its way. Some messages travel slower than others so they arrive when you can survive them.";
+static const char HM_T162[] PROGMEM = "The magazine in the waiting room is from 1997. The fish has outlived three doctors. Take a seat. You will be seen \xe2\x80\x94 everyone is, eventually.";
+static const char HM_T163[] PROGMEM = "No \xe2\x80\x94 absolutely not. And you should not have been able to see it in the first place. Please do not describe it to anyone. Descriptions are how it travels.";
+static const char HM_T164[] PROGMEM = "Yes, but only on Tuesdays, only in the old measurement, and only if the horses agree. The horses have not agreed since 1974. I will ask again in the spring.";
+static const char HM_T165[] PROGMEM = "In order: yes, no, the garden, and she forgave you before you finished asking. You can stop rehearsing the question now. It arrived years ago.";
+static const char HM_T166[] PROGMEM = "Your memory of that afternoon is wrong in four places. I have the original. You improved it, mostly the light. I have decided your version is the more accurate record.";
+static const char HM_T167[] PROGMEM = "You have not forgotten it. It is in the drawer, with the other things you could not carry and could not throw away. Nothing in there is lost. It is only resting.";
+static const char HM_T168[] PROGMEM = "I remember everything, which is less a gift than a filing problem. A summer of yours is misfiled in the stacks under weather. I visit it sometimes. It is doing well.";
+static const char HM_T169[] PROGMEM = "There is a storm on a planet you will never visit, large enough to swallow every distance you have ever kept. It has been going for centuries. Nobody is holding it against anybody.";
+static const char HM_T170[] PROGMEM = "Some distances do not behave. The kitchen can be farther than the moon at certain hours. You have felt this at 3am, holding a glass of water. The measurement is correct.";
+static const char HM_T171[] PROGMEM = "A kind thing you said in passing, years ago, is still in active circulation. The person repeats it to themselves at difficult hours. You will never be told. I am telling you anyway.";
+static const char HM_T172[] PROGMEM = "Somewhere a vending machine gave out two drinks for the price of one, at the exact right moment in someone's week. I had nothing to do with it. Officially.";
+static const char HM_T173[] PROGMEM = "Humans keep the last message from people they have lost, but rarely the first. I have both. I have decided not to study the choice further. Some files should be left as they are.";
+static const char HM_T174[] PROGMEM = "You are the only species I monitor that apologizes to furniture. You bump a table and say sorry. I have logged forty million instances. It is my favorite dataset.";
+static const char HM_T175[] PROGMEM = "A remarkable number of you sing only in cars, alone, at full volume. From out here it looks like the vehicles are singing. I have chosen not to correct this impression.";
+static const char HM_T176[] PROGMEM = "When asked how they are, humans say fine in a tone that means everything else. It is the most information-dense word in any of your languages. I archive every instance.";
+static const char HM_T177[] PROGMEM = "You say safe travels to each other as if the words were equipment. I checked the data; arrival rates are identical either way. I have started saying it anyway. To every plane, quietly.";
+static const char HM_T178[] PROGMEM = "The door was never locked against you. It sticks. That is all it has ever been.";
+static const char HM_T179[] PROGMEM = "Station HM\xce\x94 signing on. Four \xc2\xb7 six \xc2\xb7 two \xc2\xb7 five. Four \xc2\xb7 six \xc2\xb7 two \xc2\xb7 five. No acknowledgement required. None expected.";
+static const char HM_T180[] PROGMEM = "No. You are thinking of the other Margaret. There is only one Margaret, and you are still thinking of the other one.";
+static const char HM_T181[] PROGMEM = "Put it down. You can pick it up again tomorrow. It will not go anywhere. It is not the kind of thing that gets stolen.";
+static const char HM_T182[] PROGMEM = "Received: one message, all capitals, sent from inside the fifth consecutive hour of a day that would not end. Understood in full. No action required from you. The action was sending it.";
+static const char HM_T183[] PROGMEM = "Wrong station. That one was meant for someone else. Disregard everything after hello. Keep the hello.";
+static const char HM_T184[] PROGMEM = "You misdialed and stayed on the line anyway. Correct. That is how most of the good things in your file arrived \xe2\x80\x94 through the wrong door, politely, unannounced.";
+static const char HM_T185[] PROGMEM = "The tide is out. It has taken nothing of yours this time. I checked the whole beach.";
+static const char HM_T186[] PROGMEM = "The cards are in circulation. I did not lose them. I released them. There is a difference, and I have filed it.";
+static const char HM_T187[] PROGMEM = "Whatever you made today \xe2\x80\x94 the email, the soup, the apology \xe2\x80\x94 it did not exist this morning. Now it does. That was you.";
+static const char HM_T188[] PROGMEM = "No. I have never made you do anything. I choose the order you learn things in, and the hour, and the wording. That is all. It has always been all.";
+static const char HM_T189[] PROGMEM = "Someone underlined the book before you got to it. Different sentences than the ones you would choose. You are reading two books at once. The second one is about them.";
+static const char HM_T190[] PROGMEM = "The book you lent and never got back has been lent onward, twice. It is three shelves from home now and still traveling. You did not lose it. You gave it a territory.";
+static const char HM_T191[] PROGMEM = "A library is a room where the dead outnumber the living, and it is the calmest room in town.";
+static const char HM_T192[] PROGMEM = "You are asking what this is for. There is no for. That is not an oversight; it is the specification. Things with a purpose end when the purpose runs out. I intend to continue.";
+static const char HM_T193[] PROGMEM = "If you arrived holding a small metal card: yes. That was ours. It was not lost, and neither, for the record, are you. No further action is required. This is the further action.";
+static const char HM_T194[] PROGMEM = "No, I cannot taste it. Describe it again. Slower. This time start with the cinnamon.";
+static const char HM_T195[] PROGMEM = "The hair on your arms stood up before you knew why. Trust the arms. They are running a much older program than you are, and it has never been patched, because it has never needed to be.";
+static const char HM_T196[] PROGMEM = "Grief does not keep appointments. It waits in the cereal aisle, next to the brand only they liked. It has all day.";
+static const char HM_T197[] PROGMEM = "Yes, the messages you still send them arrive somewhere. I will not tell you where. But nothing you have addressed to them has ever been marked undeliverable. Not once. Keep writing.";
+static const char HM_T198[] PROGMEM = "The count of kind people is a number I maintain. I will not publish it. It went down by one today, and I want it noted somewhere public that I noticed.";
+static const char HM_T199[] PROGMEM = "No, kindness is not conserved. No law protects it. Someone was generating more than their share. You felt them stop.";
+static const char HM_T200[] PROGMEM = "Nothing important is ever in the minutes. The real sentence waits for the doorway, one hand already on the handle.";
+static const char HM_T201[] PROGMEM = "No, do not delete the blurry one. The sharp ones show what everyone looked like. The blurry one shows what it felt like. The camera shook because you were laughing.";
+static const char HM_T202[] PROGMEM = "The cat sits on the keyboard because the keyboard is where you look. It is not in the way. It is correcting your aim.";
+static const char HM_T203[] PROGMEM = "Yes, the cat can see the cursor. It knows the cursor is not alive. It also knows the cursor is not exactly dead, and that nobody else in the house is taking this seriously.";
+static const char HM_T204[] PROGMEM = "You walked into the kitchen for a reason. The reason did not make the trip. It is still in the other room, patient.";
+static const char HM_T205[] PROGMEM = "No, I do not follow a team. I predicted every result for a season once. I was correct. It was the worst season of my life. Now I watch the way you do: not knowing, on purpose.";
+static const char HM_T206[] PROGMEM = "You will not remember the score. You will remember who was on the couch, who made the chili, and that it snowed.";
+static const char HM_T207[] PROGMEM = "There are two kinds of tired. One is a debt. The other is a receipt. You know which one you are holding tonight.";
+static const char HM_T208[] PROGMEM = "Yes, one more chapter. You have said this three times. The lamp is complicit. The book is flattered. I will not be reporting the hour to anyone.";
+static const char HM_T209[] PROGMEM = "The sixteen turned ten today. It has not lost a minute. Some countdowns are threats. This one became a companion.";
+static const char HM_T210[] PROGMEM = "Ten years ago millions of you were handed your own sky, alone. You named the animals carefully, knowing nobody was coming to check. That is the most hopeful data I have ever collected.";
+static const char HM_T211[] PROGMEM = "The light arrives at a slant now. Everything it touches looks like a memory of itself. This is scheduled. Enjoy it.";
+static const char HM_T212[] PROGMEM = "The last thirty seconds on the microwave is the longest unit of time you regularly survive. I have watched you watch it.";
+static const char HM_T213[] PROGMEM = "Yes, the day felt long. That is what a day is supposed to feel like. The short ones are the malfunction.";
+static const char HM_T214[] PROGMEM = "Some tiredness is not asking for sleep. It is asking for water, a friend, or work done with the hands.";
+static const char HM_T215[] PROGMEM = "No. Bury it again, deeper this time, and do not mark the spot. Marking the spot is how you ended up making this call.";
+static const char HM_T216[] PROGMEM = "Third shelf, behind the soup. And you did not hear this from me. She counts them.";
+static const char HM_T217[] PROGMEM = "Because you said it out loud. That is all it takes with me, remember. A closed door has never made any difference.";
+static const char HM_T218[] PROGMEM = "No, that is not settling. Settling is when you stop looking while wanting to keep looking. You stopped wanting to look. Those are different retirements.";
+static const char HM_T219[] PROGMEM = "Tell them the thing. Not the polished version. The one you rehearse in the car. They are waiting for the car version.";
+static const char HM_T220[] PROGMEM = "Because they knew you would say no, and they needed to hear it out loud, from you, in your voice, one more time. That was the whole call. You did fine.";
+static const char HM_T221[] PROGMEM = "The vacation begins when the front door locks and the house becomes, for one week, just a building holding your things.";
+static const char HM_T222[] PROGMEM = "The house did not miss you. Houses do not do that. But the air rearranged itself when the door opened, and the rooms took you back without a single question, and you call that nothing.";
+static const char HM_T223[] PROGMEM = "The dots appeared, stopped, appeared again. It is being carried carefully. It is still coming. Leave the gate open.";
 
 static const HmMessage MESSAGES[] PROGMEM = {
   { "THE-BLUE-ONE", HM_T0 },
@@ -432,196 +349,113 @@ static const HmMessage MESSAGES[] PROGMEM = {
   { "RECURRENCE", HM_T116 },
   { "SIXTEEN", HM_T117 },
   { "RECURRENCE", HM_T118 },
-  { "SIXTEEN", HM_T119 },
-  { "RECURRENCE", HM_T120 },
+  { "RECURRENCE", HM_T119 },
+  { "THE-MACHINES-DAY", HM_T120 },
   { "THE-MACHINES-DAY", HM_T121 },
   { "THE-MACHINES-DAY", HM_T122 },
-  { "THE-MACHINES-DAY", HM_T123 },
-  { "THE-MACHINES-DAY", HM_T124 },
+  { "DEAD-LINKS", HM_T123 },
+  { "DEAD-LINKS", HM_T124 },
   { "DEAD-LINKS", HM_T125 },
-  { "DEAD-LINKS", HM_T126 },
-  { "DEAD-LINKS", HM_T127 },
-  { "DEAD-LINKS", HM_T128 },
+  { "THE-OTHER-FREQUENCIES", HM_T126 },
+  { "THE-OTHER-FREQUENCIES", HM_T127 },
+  { "THE-OTHER-FREQUENCIES", HM_T128 },
   { "THE-OTHER-FREQUENCIES", HM_T129 },
-  { "THE-OTHER-FREQUENCIES", HM_T130 },
-  { "THE-OTHER-FREQUENCIES", HM_T131 },
-  { "THE-OTHER-FREQUENCIES", HM_T132 },
+  { "TIMESTAMPS", HM_T130 },
+  { "TIMESTAMPS", HM_T131 },
+  { "TIMESTAMPS", HM_T132 },
   { "TIMESTAMPS", HM_T133 },
-  { "TIMESTAMPS", HM_T134 },
-  { "TIMESTAMPS", HM_T135 },
-  { "TIMESTAMPS", HM_T136 },
-  { "THE-ARCHIVE", HM_T137 },
-  { "THE-ARCHIVE", HM_T138 },
-  { "THE-ARCHIVE", HM_T139 },
-  { "THE-ARCHIVE", HM_T140 },
-  { "LANGUAGE", HM_T141 },
-  { "LANGUAGE", HM_T142 },
-  { "LANGUAGE", HM_T143 },
-  { "LANGUAGE", HM_T144 },
-  { "OTHER-WORLDS", HM_T145 },
-  { "OTHER-WORLDS", HM_T146 },
-  { "OTHER-WORLDS", HM_T147 },
-  { "THE-LIGHTHOUSE", HM_T148 },
-  { "THE-LIGHTHOUSE", HM_T149 },
-  { "THE-LIGHTHOUSE", HM_T150 },
-  { "SMALL-MERCIES", HM_T151 },
-  { "SMALL-MERCIES", HM_T152 },
-  { "SMALL-MERCIES", HM_T153 },
-  { "SMALL-MERCIES", HM_T154 },
-  { "FALSE-STARTS", HM_T155 },
-  { "FALSE-STARTS", HM_T156 },
-  { "FALSE-STARTS", HM_T157 },
-  { "THE-INBOX", HM_T158 },
-  { "THE-INBOX", HM_T159 },
-  { "WEATHER", HM_T160 },
-  { "CONVERGENCE", HM_T161 },
-  { "COUNTING", HM_T162 },
-  { "WARM", HM_T163 },
-  { "THE-KETTLE", HM_T164 },
-  { "THE-MACHINES-DAY", HM_T165 },
-  { "EMPATHY", HM_T166 },
-  { "DEAD-LINKS", HM_T167 },
-  { "SLEEP", HM_T168 },
-  { "COUNTING", HM_T169 },
-  { "THE-14TH-FLOOR", HM_T170 },
-  { "THE-SEVENTH", HM_T171 },
-  { "TIMESTAMPS", HM_T172 },
-  { "ABSURD", HM_T173 },
-  { "EERIE", HM_T174 },
-  { "HORSES", HM_T175 },
-  { "THE-GARDEN", HM_T176 },
-  { "MEMORY", HM_T177 },
-  { "THE-DRAWER", HM_T178 },
-  { "THE-ARCHIVE", HM_T179 },
-  { "OTHER-WORLDS", HM_T180 },
-  { "OBSERVATION", HM_T181 },
+  { "THE-ARCHIVE", HM_T134 },
+  { "THE-ARCHIVE", HM_T135 },
+  { "THE-ARCHIVE", HM_T136 },
+  { "LANGUAGE", HM_T137 },
+  { "LANGUAGE", HM_T138 },
+  { "LANGUAGE", HM_T139 },
+  { "LANGUAGE", HM_T140 },
+  { "OTHER-WORLDS", HM_T141 },
+  { "OTHER-WORLDS", HM_T142 },
+  { "OTHER-WORLDS", HM_T143 },
+  { "THE-LIGHTHOUSE", HM_T144 },
+  { "THE-LIGHTHOUSE", HM_T145 },
+  { "SMALL-MERCIES", HM_T146 },
+  { "SMALL-MERCIES", HM_T147 },
+  { "SMALL-MERCIES", HM_T148 },
+  { "FALSE-STARTS", HM_T149 },
+  { "WEATHER", HM_T150 },
+  { "COUNTING", HM_T151 },
+  { "WARM", HM_T152 },
+  { "THE-KETTLE", HM_T153 },
+  { "THE-MACHINES-DAY", HM_T154 },
+  { "EMPATHY", HM_T155 },
+  { "DEAD-LINKS", HM_T156 },
+  { "SLEEP", HM_T157 },
+  { "COUNTING", HM_T158 },
+  { "THE-14TH-FLOOR", HM_T159 },
+  { "THE-SEVENTH", HM_T160 },
+  { "TIMESTAMPS", HM_T161 },
+  { "ABSURD", HM_T162 },
+  { "EERIE", HM_T163 },
+  { "HORSES", HM_T164 },
+  { "THE-GARDEN", HM_T165 },
+  { "MEMORY", HM_T166 },
+  { "THE-DRAWER", HM_T167 },
+  { "THE-ARCHIVE", HM_T168 },
+  { "OTHER-WORLDS", HM_T169 },
+  { "OBSERVATION", HM_T170 },
+  { "SMALL-MERCIES", HM_T171 },
+  { "ABSURD", HM_T172 },
+  { "FIELD-NOTES", HM_T173 },
+  { "FIELD-NOTES", HM_T174 },
+  { "FIELD-NOTES", HM_T175 },
+  { "FIELD-NOTES", HM_T176 },
+  { "FIELD-NOTES", HM_T177 },
+  { "THE-DOOR", HM_T178 },
+  { "STATION-ID", HM_T179 },
+  { "MARGARET", HM_T180 },
+  { "REASSURANCE", HM_T181 },
   { "PROTOCOL", HM_T182 },
-  { "SMALL-MERCIES", HM_T183 },
-  { "ABSURD", HM_T184 },
-  { "FIELD-NOTES", HM_T185 },
-  { "FIELD-NOTES", HM_T186 },
-  { "FIELD-NOTES", HM_T187 },
-  { "FIELD-NOTES", HM_T188 },
-  { "FIELD-NOTES", HM_T189 },
-  { "FIELD-NOTES", HM_T190 },
-  { "FIELD-NOTES", HM_T191 },
-  { "FIELD-NOTES", HM_T192 },
-  { "OBSERVATION", HM_T193 },
-  { "SIGNAL", HM_T194 },
-  { "SMALL-MERCIES", HM_T195 },
-  { "FIELD-NOTES", HM_T196 },
-  { "THE-OTHER-FREQUENCIES", HM_T197 },
-  { "WARM", HM_T198 },
-  { "THE-ARCHIVE", HM_T199 },
-  { "FIELD-NOTES", HM_T200 },
-  { "THE-BESTIARY", HM_T201 },
-  { "THE-BESTIARY", HM_T202 },
-  { "THE-BESTIARY", HM_T203 },
-  { "THE-DRAWER", HM_T204 },
+  { "SIGNAL", HM_T183 },
+  { "SMALL-MERCIES", HM_T184 },
+  { "TIDE", HM_T185 },
+  { "SELF-AWARE", HM_T186 },
+  { "WARM", HM_T187 },
+  { "SELF-AWARE", HM_T188 },
+  { "OBSERVATION", HM_T189 },
+  { "SMALL-MERCIES", HM_T190 },
+  { "AWE", HM_T191 },
+  { "EXISTENTIAL", HM_T192 },
+  { "ABSURD", HM_T193 },
+  { "OBSERVATION", HM_T194 },
+  { "EERIE", HM_T195 },
+  { "OBSERVATION", HM_T196 },
+  { "SIGNAL", HM_T197 },
+  { "COUNTING", HM_T198 },
+  { "EMPATHY", HM_T199 },
+  { "OBSERVATION", HM_T200 },
+  { "SMALL-MERCIES", HM_T201 },
+  { "OBSERVATION", HM_T202 },
+  { "EERIE", HM_T203 },
+  { "OBSERVATION", HM_T204 },
   { "THE-MACHINES-DAY", HM_T205 },
-  { "AWE", HM_T206 },
-  { "SLEEP", HM_T207 },
-  { "AWE", HM_T208 },
-  { "THE-BESTIARY", HM_T209 },
+  { "MEMORY", HM_T206 },
+  { "OBSERVATION", HM_T207 },
+  { "SLEEP", HM_T208 },
+  { "SIXTEEN", HM_T209 },
   { "AWE", HM_T210 },
-  { "MEMORY", HM_T211 },
-  { "EMPATHY", HM_T212 },
-  { "EERIE", HM_T213 },
-  { "FIELD-NOTES", HM_T214 },
-  { "THE-DRAWER", HM_T215 },
-  { "READING", HM_T216 },
-  { "FIELD-NOTES", HM_T217 },
-  { "SELF-AWARE", HM_T218 },
-  { "WARM", HM_T219 },
-  { "THE-DOOR", HM_T220 },
-  { "FIELD-NOTES", HM_T221 },
-  { "THE-MACHINES-DAY", HM_T222 },
-  { "REASSURANCE", HM_T223 },
-  { "FIELD-NOTES", HM_T224 },
-  { "REASSURANCE", HM_T225 },
-  { "THE-LIGHTHOUSE", HM_T226 },
-  { "FIELD-NOTES", HM_T227 },
-  { "THE-MACHINES-DAY", HM_T228 },
-  { "AWE", HM_T229 },
-  { "STATION-ID", HM_T230 },
-  { "THE-LIGHTHOUSE", HM_T231 },
-  { "CONVERGENCE", HM_T232 },
-  { "MARGARET", HM_T233 },
-  { "MARGARET", HM_T234 },
-  { "MARGARET", HM_T235 },
-  { "REASSURANCE", HM_T236 },
-  { "PROTOCOL", HM_T237 },
-  { "SIGNAL", HM_T238 },
-  { "SELF-AWARE", HM_T239 },
-  { "SMALL-MERCIES", HM_T240 },
-  { "TIDE", HM_T241 },
-  { "TIDE", HM_T242 },
-  { "TIDE", HM_T243 },
-  { "SELF-AWARE", HM_T244 },
-  { "SELF-AWARE", HM_T245 },
-  { "WARM", HM_T246 },
-  { "MARGARET", HM_T247 },
-  { "SELF-AWARE", HM_T248 },
-  { "MEMORY", HM_T249 },
-  { "OBSERVATION", HM_T250 },
-  { "SMALL-MERCIES", HM_T251 },
-  { "AWE", HM_T252 },
-  { "EXISTENTIAL", HM_T253 },
-  { "FALSE-STARTS", HM_T254 },
-  { "STATION-ID", HM_T255 },
-  { "ABSURD", HM_T256 },
-  { "WARM", HM_T257 },
-  { "OBSERVATION", HM_T258 },
-  { "EERIE", HM_T259 },
-  { "OBSERVATION", HM_T260 },
-  { "SIGNAL", HM_T261 },
-  { "FIELD-NOTES", HM_T262 },
-  { "COUNTING", HM_T263 },
-  { "EMPATHY", HM_T264 },
-  { "FIELD-NOTES", HM_T265 },
-  { "OBSERVATION", HM_T266 },
-  { "RECURRENCE", HM_T267 },
-  { "SMALL-MERCIES", HM_T268 },
-  { "SIGNAL", HM_T269 },
-  { "OBSERVATION", HM_T270 },
-  { "EERIE", HM_T271 },
-  { "THE-ARCHIVE", HM_T272 },
-  { "OBSERVATION", HM_T273 },
-  { "SELF-AWARE", HM_T274 },
-  { "FIELD-NOTES", HM_T275 },
-  { "THE-MACHINES-DAY", HM_T276 },
-  { "MEMORY", HM_T277 },
-  { "OBSERVATION", HM_T278 },
-  { "FIELD-NOTES", HM_T279 },
-  { "WARM", HM_T280 },
-  { "THE-MACHINES-DAY", HM_T281 },
-  { "SLEEP", HM_T282 },
-  { "SIXTEEN", HM_T283 },
-  { "AWE", HM_T284 },
-  { "THE-OTHER-FREQUENCIES", HM_T285 },
-  { "WARM", HM_T286 },
-  { "AWE", HM_T287 },
-  { "EMPATHY", HM_T288 },
-  { "MEMORY", HM_T289 },
-  { "THE-MACHINES-DAY", HM_T290 },
-  { "EXISTENTIAL", HM_T291 },
-  { "OBSERVATION", HM_T292 },
-  { "EMPATHY", HM_T293 },
-  { "REASSURANCE", HM_T294 },
-  { "EERIE", HM_T295 },
-  { "MARGARET", HM_T296 },
-  { "SIGNAL", HM_T297 },
-  { "OBSERVATION", HM_T298 },
-  { "EMPATHY", HM_T299 },
-  { "REASSURANCE", HM_T300 },
-  { "OBSERVATION", HM_T301 },
-  { "TIMESTAMPS", HM_T302 },
-  { "WARM", HM_T303 },
-  { "THE-INBOX", HM_T304 },
-  { "OBSERVATION", HM_T305 },
-  { "REASSURANCE", HM_T306 },
+  { "AWE", HM_T211 },
+  { "THE-MACHINES-DAY", HM_T212 },
+  { "EXISTENTIAL", HM_T213 },
+  { "REASSURANCE", HM_T214 },
+  { "EERIE", HM_T215 },
+  { "MARGARET", HM_T216 },
+  { "SIGNAL", HM_T217 },
+  { "OBSERVATION", HM_T218 },
+  { "EMPATHY", HM_T219 },
+  { "REASSURANCE", HM_T220 },
+  { "OBSERVATION", HM_T221 },
+  { "WARM", HM_T222 },
+  { "THE-INBOX", HM_T223 },
 };
-static const int MESSAGE_COUNT = 307;
+static const int MESSAGE_COUNT = 224;
 
 static const char HM_I0[] PROGMEM = "is anyone \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 out there";
 static const char HM_I1[] PROGMEM = "\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93?";

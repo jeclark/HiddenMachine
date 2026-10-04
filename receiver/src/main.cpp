@@ -42,16 +42,14 @@ static const int RULE2_Y = 226, FOOT_Y = 229;
 
 struct FontTier { const uint8_t* vlw; int size; int lineH; int maxLines; };
 // every tier holds the 5-line / 22px-rhythm envelope so the text block is
-// visually constant; size tracks message length monotonically. The 9px
-// tier is the emergency tail for the longest transmissions (6 lines max).
+// visually constant; size tracks message length monotonically. The build
+// filter in gen_assets.py (<= 185 chars) guarantees everything fits.
 static const FontTier TIERS[] = {
   { FontL16, 16, 22, 5 },
   { FontL14, 14, 22, 5 },
   { FontL12, 12, 22, 5 },
-  { FontR10, 10, 22, 5 },
-  { FontR9,   9, 18, 6 },
 };
-static const int NTIERS = 5;
+static const int NTIERS = 3;
 
 // ---- transmission state ----
 static const int MAXCP = 420;
