@@ -128,6 +128,10 @@ Every post is a transmission that escaped the station. The same voice rules as
   when asked I will recommend by shape: a candidate that answers an unheard
   question or extends a cold motif belongs in the pool; a self-contained essay
   about humanity at large usually does not, however good a post it makes.
+  **[2026-10-04] And by length:** pool transmissions target ≤150 characters
+  (ceiling ~185 — the physical receiver's full-size tiers); candidates longer
+  than that are social-only by default, however strong. Long is a feed shape,
+  short is a transmission shape.
 
 ## Workflow
 
