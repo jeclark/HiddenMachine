@@ -280,9 +280,11 @@ static int pickNext() {
   return order[orderIdx++];
 }
 
-static void goNext() {
+static void goNext(const char* cause) {
   int i = pickNext();
   lastShown = i;
+  Serial.printf("[%lu] advance (%s) -> msg %d, heap %u\n",
+                (unsigned long)millis(), cause, i, (unsigned)ESP.getFreeHeap());
   nCp = utf8Decode(MESSAGES[i].text, cps, MAXCP);
   for (tierIdx = 0; tierIdx < 2; tierIdx++) { loadTier(); if (wrapFits()) break; }
   if (tierIdx == 2) { loadTier(); wrapFits(); }
@@ -325,8 +327,20 @@ static void decodeTick() {
 }
 
 // ---- waveform ----
+// phases accumulate mod 2*pi so animation speed never drifts as millis()
+// grows past float precision
+static float phA = 0, phB = 0, phBar = 0, phLed = 0;
+static uint32_t waveLast = 0;
+
 static void waveFrame() {
-  float t = millis() / 1000.0f;
+  uint32_t ms = millis();
+  float dt = (ms - waveLast) / 1000.0f;
+  if (waveLast == 0 || dt > 0.25f) dt = 0.033f;
+  waveLast = ms;
+  phA = fmodf(phA + 1.9f * dt, TWO_PI);
+  phB = fmodf(phB + 1.3f * dt, TWO_PI);
+  phBar = fmodf(phBar + 4.8f * dt, TWO_PI);
+  phLed = fmodf(phLed + 6.0f * dt, TWO_PI);
   float amp, nz;
   const float r = 0.5f;                      // site "restless" default
   if (phase == ACTIVE)      { amp = WAVE_H * (0.30f + 0.06f * r); nz = WAVE_H * (0.16f + 0.05f * r); }
@@ -338,8 +352,8 @@ static void waveFrame() {
   int py = mid;
   for (int x = 0; x <= UW; x += 2) {
     float ph = (float)x / UW * 6.2831853f;
-    float y = mid + sinf(ph * 3 + t * 1.9f) * amp * 0.5f
-                  + sinf(ph * 7 - t * 1.3f) * amp * 0.26f
+    float y = mid + sinf(ph * 3 + phA) * amp * 0.5f
+                  + sinf(ph * 7 - phB) * amp * 0.26f
                   + ((int)rnd(1000) / 500.0f - 1.0f) * nz;
     int iy = constrain((int)y, 0, WAVE_H - 1);
     if (x) wave.drawLine(x - 2, py, x, iy, HM_CYAN);
@@ -348,13 +362,13 @@ static void waveFrame() {
   wave.pushSprite(MX, WAVE_Y);
   // signal-lock bars, footer left
   for (int i = 0; i < 5; i++) {
-    float s = 0.25f + 0.75f * (0.5f + 0.5f * sinf(t * 4.8f - i * 0.87f));
+    float s = 0.25f + 0.75f * (0.5f + 0.5f * sinf(phBar - i * 0.87f));
     int h = (int)(9 * s);
     tft.fillRect(10 + i * 4, FOOT_Y, 3, 10, HM_BG);
     tft.fillRect(10 + i * 4, FOOT_Y + 10 - h, 3, h, HM_CYAN_DIM);
   }
   // rgb led glow (active low)
-  int glow = (phase == ACTIVE) ? 40 + (int)(30 * sinf(t * 6)) :
+  int glow = (phase == ACTIVE) ? 40 + (int)(30 * sinf(phLed)) :
              (phase == DECODING) ? 14 : 5;
   ledcWrite(1, 255 - glow / 2);  // G
   ledcWrite(2, 255 - glow);      // B
@@ -362,6 +376,7 @@ static void waveFrame() {
 
 // ---- arduino ----
 void setup() {
+  Serial.begin(115200);
   pinMode(LED_R, OUTPUT); digitalWrite(LED_R, HIGH);
   ledcSetup(1, 5000, 8); ledcAttachPin(LED_G, 1); ledcWrite(1, 255);
   ledcSetup(2, 5000, 8); ledcAttachPin(LED_B, 2); ledcWrite(2, 255);
@@ -379,7 +394,7 @@ void setup() {
 
   drawChrome();
   drawClock();
-  goNext();
+  goNext("boot");
 }
 
 void loop() {
@@ -387,7 +402,7 @@ void loop() {
 
   if (phase == DECODING && now - tDecode >= 28) { tDecode = now; decodeTick(); }
   if (phase == PAUSE && now - phaseT0 >= 6000) { phase = ACTIVE; phaseT0 = now; }
-  else if (phase == ACTIVE && now - phaseT0 >= 1600) goNext();
+  else if (phase == ACTIVE && now - phaseT0 >= 1600) goNext("auto");
 
   if (now - tWave >= 33) { tWave = now; waveFrame(); }
 
@@ -406,8 +421,17 @@ void loop() {
     if (phase != DECODING) drawCursor();
   }
 
-  if (now - tTouch > 400 && ts.tirqTouched() && ts.touched()) {
-    tTouch = now;
-    goNext();
+  // edge-triggered: require a release between advances so held contact or
+  // noise hovering at the pressure threshold cannot re-fire the advance
+  static bool touchWas = false;
+  bool touchNow = false;
+  if (ts.tirqTouched() && ts.touched()) {
+    TS_Point p = ts.getPoint();
+    touchNow = p.z >= 500;
   }
+  if (touchNow && !touchWas && now - tTouch > 400) {
+    tTouch = now;
+    goNext("touch");
+  }
+  touchWas = touchNow;
 }
