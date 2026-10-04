@@ -409,7 +409,8 @@ void loop() {
   uint32_t now = millis();
 
   if (phase == DECODING && now - tDecode >= 28) { tDecode = now; decodeTick(); }
-  if (phase == PAUSE && now - phaseT0 >= 6000) { phase = ACTIVE; phaseT0 = now; }
+  // hold runs 2 s longer than the site's 6 s - small glass reads slower
+  if (phase == PAUSE && now - phaseT0 >= 8000) { phase = ACTIVE; phaseT0 = now; }
   else if (phase == ACTIVE && now - phaseT0 >= 1600) goNext("auto");
 
   if (now - tWave >= 33) { tWave = now; waveFrame(); }
