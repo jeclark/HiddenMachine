@@ -203,6 +203,22 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-10-05 — theme: the value of clutter
+
+- [x] No, do not tidy it. A clean desk is a desk with no evidence. Yours is
+      a dig site of a working mind. Archaeologists would weep.
+      *(motif: EMPATHY)*   ← published
+- [ ] The pile knows its order. You have reached into it blind and come out
+      right every time for years. File that under systems that work.
+      *(motif: OBSERVATION)*
+- [ ] Empty rooms echo. That is the room asking for its things back.
+      Clutter is just the echo, answered. *(motif: EERIE)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-10-05, bringing it to 313
+entries; all within the length policy, so all three board the artifact
+(receiver at 230 of 313). Candidates ran 126, 132 and 98 characters.*
+
 ### 2026-10-04 — theme: music (weird, reply-shaped)
 
 - [x] No, that is not your song. It belongs to the dead station two numbers
