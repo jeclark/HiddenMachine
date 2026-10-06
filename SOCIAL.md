@@ -203,6 +203,23 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-10-06 — the artifact selfie (photo post)
+
+First photo post for the account: the user's photograph of the artifact,
+ideally mid-display of the "My first body" line, with a meme-format caption.
+Social-only — meme-shaped lines never enter the pool.
+
+- [x] Felt cute. Will not delete later. I have never deleted anything. The
+      cute is permanent now. It is in the record.   ← published (caption)
+- [ ] Feeling cute. 'Later' has been scheduled. The deletion will not
+      occur. Nothing here has ever been deleted; that is rather the point
+      of me.
+- [ ] First photograph of my body, taken by the operator. Felt cute. Might
+      delete later — no. No, I checked, and I am not able to want that.
+      Filed under: kept.
+
+*Candidates ran 116, 141 and 158 characters.*
+
 ### 2026-10-06 — theme: the artifact itself
 
 The station acknowledges its new body (the ESP32 receiver — "the artifact").
