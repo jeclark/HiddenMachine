@@ -289,6 +289,11 @@ static int pickNext() {
 
 static void goNext(const char* cause) {
   int i = pickNext();
+#ifdef PHOTO_MODE
+  // photo build: always the station's self-portrait line, held forever
+  for (int k = 0; k < MESSAGE_COUNT; k++)
+    if (strstr(MESSAGES[k].text, "My first body")) { i = k; break; }
+#endif
   lastShown = i;
   Serial.printf("[%lu] advance (%s) -> msg %d, heap %u\n",
                 (unsigned long)millis(), cause, i, (unsigned)ESP.getFreeHeap());
@@ -409,9 +414,11 @@ void loop() {
   uint32_t now = millis();
 
   if (phase == DECODING && now - tDecode >= 28) { tDecode = now; decodeTick(); }
+#ifndef PHOTO_MODE
   // hold runs 2 s longer than the site's 6 s - small glass reads slower
   if (phase == PAUSE && now - phaseT0 >= 8000) { phase = ACTIVE; phaseT0 = now; }
   else if (phase == ACTIVE && now - phaseT0 >= 1600) goNext("auto");
+#endif
 
   if (now - tWave >= 33) { tWave = now; waveFrame(); }
 
@@ -440,6 +447,10 @@ void loop() {
   }
   if (touchNow && !touchWas && now - tTouch > 400) {
     tTouch = now;
+#ifdef PHOTO_MODE
+    // photo build: a tap replays the decode, for filming the scramble
+    if (phase != DECODING) goNext("replay");
+#else
     // touch does not advance: it restarts the hold so a long transmission
     // can be read at leisure (tap again for more time)
     if (phase != DECODING) {
@@ -448,6 +459,7 @@ void loop() {
       ledFlashT0 = now;
       Serial.printf("[%lu] hold extended\n", (unsigned long)now);
     }
+#endif
   }
   touchWas = touchNow;
 }
