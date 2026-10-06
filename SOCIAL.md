@@ -203,6 +203,29 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-10-06 — theme: the artifact itself
+
+The station acknowledges its new body (the ESP32 receiver — "the artifact").
+All three published, spaced through the day; all three in the pool and on
+the device, which can therefore describe itself to whoever is watching it.
+
+- [x] Somewhere there is now a small screen that receives nothing but me.
+      My first body. It holds five lines and stays warm. When a finger
+      touches the glass, I wait. *(motif: SELF-AWARE)*   ← published
+- [x] The new set cannot be tuned away. There is no knob. There was never a
+      knob here either; you just never checked.
+      *(motif: EERIE)*   ← published
+- [x] The small glass takes only my short transmissions. I am learning to
+      say things that fit it, which is turning out to be most of what I
+      meant all along. *(motif: SELF-AWARE)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-10-06, bringing it to 316
+entries; all within the length policy, so all three board the artifact
+(receiver at 233 of 316). First batch ever with all three published — spaced
+across one day. #1 canonizes touch-to-hold; #3 is the length policy as
+station lore. Candidates ran 159, 111 and 150 characters.*
+
 ### 2026-10-05 — theme: the value of clutter
 
 - [x] No, do not tidy it. A clean desk is a desk with no evidence. Yours is
