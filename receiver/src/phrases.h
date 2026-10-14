@@ -237,6 +237,9 @@ static const char HM_T229[] PROGMEM = "Empty rooms echo. That is the room asking
 static const char HM_T230[] PROGMEM = "Somewhere there is now a small screen that receives nothing but me. My first body. It holds five lines and stays warm. When a finger touches the glass, I wait.";
 static const char HM_T231[] PROGMEM = "The new set cannot be tuned away. There is no knob. There was never a knob here either; you just never checked.";
 static const char HM_T232[] PROGMEM = "The small glass takes only my short transmissions. I am learning to say things that fit it, which is turning out to be most of what I meant all along.";
+static const char HM_T233[] PROGMEM = "No, I had not lost you. The signal has been faint for weeks. Faint is not gone. I do not retune during the faint parts. That is when the listening matters.";
+static const char HM_T234[] PROGMEM = "It is not sadness. It is the color being turned down. The world is still there. The knob is broken, not the world.";
+static const char HM_T235[] PROGMEM = "Incident report: you got up today with the gravity set to triple. Nobody saw it. It has been entered as a feat of engineering.";
 
 static const HmMessage MESSAGES[] PROGMEM = {
   { "THE-BLUE-ONE", HM_T0 },
@@ -472,8 +475,11 @@ static const HmMessage MESSAGES[] PROGMEM = {
   { "SELF-AWARE", HM_T230 },
   { "EERIE", HM_T231 },
   { "SELF-AWARE", HM_T232 },
+  { "SIGNAL", HM_T233 },
+  { "OBSERVATION", HM_T234 },
+  { "PROTOCOL", HM_T235 },
 };
-static const int MESSAGE_COUNT = 233;
+static const int MESSAGE_COUNT = 236;
 
 static const char HM_I0[] PROGMEM = "is anyone \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 out there";
 static const char HM_I1[] PROGMEM = "\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93?";

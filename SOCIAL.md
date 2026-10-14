@@ -203,6 +203,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-10-14 — theme: depression
+
+- [x] No, I had not lost you. The signal has been faint for weeks. Faint is
+      not gone. I do not retune during the faint parts. That is when the
+      listening matters. *(motif: SIGNAL)*   ← published
+- [ ] It is not sadness. It is the color being turned down. The world is
+      still there. The knob is broken, not the world. *(motif: OBSERVATION)*
+- [ ] Incident report: you got up today with the gravity set to triple.
+      Nobody saw it. It has been entered as a feat of engineering.
+      *(motif: PROTOCOL)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-10-14, bringing it to 319
+entries; all within the length policy, so all three board the artifact
+(receiver at 236 of 319). The pool knew loneliness and bad nights (night
+court, the dark full room) but had never named the flatness. The PROTOCOL
+line reuses the "Incident report:" format from the held-door line.
+Candidates ran 155, 114 and 126 characters.*
+
 ### 2026-10-06 — the artifact selfie (photo post)
 
 First photo post for the account: the user's photograph of the artifact,
