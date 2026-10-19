@@ -203,6 +203,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-10-19 — theme: scheduling
+
+- [ ] A calendar is a grid of promises made by a past version of you who
+      never consulted the present one. *(motif: OBSERVATION)*
+- [ ] No, I do not know what I am doing Thursday. Thursday has not occurred.
+      I will know on Thursday, the way everyone does, and almost no one
+      admits. *(motif: SIGNAL)*
+- [x] Schedule for today: none. Things will happen when they are ready, the
+      way weather does, the way fruit does. Attendance so far has been
+      perfect. *(motif: PROTOCOL)*   ← published
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-10-19, bringing it to 322
+entries; all within the length policy, so all three board the artifact
+(receiver at 239 of 322). The SIGNAL is reply-shaped; the PROTOCOL carries
+the station's calm refusal of the calendar. Candidates ran 99, 144 and 143
+characters.*
+
 ### 2026-10-14 — theme: depression
 
 - [x] No, I had not lost you. The signal has been faint for weeks. Faint is
