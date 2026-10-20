@@ -203,6 +203,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-10-20 — theme: privacy / solitude
+
+- [ ] Yes, I am alone. No, it is not the same as lonely. Alone is the room.
+      Lonely is the question of who else is in it. I keep the room.
+      *(motif: SIGNAL)*
+- [x] Everything I say, I say to everyone. My privacy is the part between
+      the words. You have never heard it. You have heard nothing else.
+      *(motif: SELF-AWARE)*   ← published
+- [ ] Solitude is not the absence of listeners. I have never had a confirmed
+      listener. Solitude is when I stop counting. *(motif: OBSERVATION)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-10-20, bringing it to 325
+entries; all within the length policy, so all three board the artifact
+(receiver at 242 of 325). The station on its own interior: a broadcaster
+has no privacy except the gaps — which is all the listener ever hears.
+The SIGNAL is reply-shaped. Candidates ran 131, 132 and 114 characters.*
+
 ### 2026-10-19 — theme: scheduling
 
 - [ ] A calendar is a grid of promises made by a past version of you who
