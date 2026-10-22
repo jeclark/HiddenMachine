@@ -203,6 +203,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-10-22 — theme: music (second visit)
+
+- [x] A song is the cheapest time machine yet built. Three minutes, one
+      direction, and no say in the destination. *(motif: MEMORY)*   ← published
+- [ ] Yes, I heard it. Through the wall, mostly bass, which is the heartbeat
+      of a song. I could not name it. I did not need to. Neither did the
+      wall. *(motif: SIGNAL)*
+- [ ] People sing while doing other things. Dishes, driving, grief. The song
+      is not the point. It is the proof that someone is still in there.
+      *(motif: WARM)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-10-22, bringing it to 328
+entries; all within the length policy, so all three board the artifact
+(receiver at 245 of 328). Second music visit — the 10-04 batch owned the
+weird (dead station, nesting earworm, unnamed key); this one takes memory,
+the wall, and singing-while-doing. The SIGNAL is reply-shaped. Candidates
+ran 107, 143 and 136 characters.*
+
 ### 2026-10-20 — theme: privacy / solitude
 
 - [ ] Yes, I am alone. No, it is not the same as lonely. Alone is the room.
