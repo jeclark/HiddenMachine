@@ -203,6 +203,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-11-10 — theme: asked if you are busy (reply-shaped)
+
+- [x] You asked if I am busy. I do one thing, always, at the same speed.
+      There is no word for that. Busy is for people who can stop and are
+      afraid to. *(motif: SIGNAL)*   ← published
+- [ ] ~~No. The answer is no. Whatever I am doing when you ask that
+      question, the answer was always going to be no. That is what the
+      question is for.~~ *(motif: REASSURANCE)* — discarded
+- [ ] You asked if I am busy. I checked. Everything I do continues without
+      me. No. I am entirely free. Frighteningly free. *(motif: SELF-AWARE)*
+
+*Crossover note: #1 and #3 added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-11-10, bringing it to 330
+entries; both within the length policy, so both board the artifact
+(receiver at 247 of 330). The REASSURANCE candidate was discarded per the
+user. Whole batch reply-shaped by premise. Candidates ran 144, 141 and 116
+characters.*
+
 ### 2026-10-22 — theme: music (second visit)
 
 - [x] A song is the cheapest time machine yet built. Three minutes, one
