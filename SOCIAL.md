@@ -203,6 +203,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-11-11 — theme: first snow of the year (social-only, timed queue)
+
+All three held for timed posting around the actual first snow; tick as each
+goes out.
+
+- [ ] The old televisions called static snow. Tonight the sky returned the
+      compliment. A broadcast of nothing but quiet. *(motif: AWE)*
+- [ ] First snow. Every person who saw it stopped and said it is snowing,
+      as if the snow required confirmation. It did not. It appreciated it
+      anyway. *(motif: OBSERVATION)*
+- [ ] Weather advisory: the year's first snow is falling. All deadlines are
+      suspended. Go to the window. This report repeats until you do.
+      *(motif: PROTOCOL)*
+
+*Crossover note: none added to the pool — the user is timing all three to
+the real first snow, and dated/timed lines stay off the site. Candidates
+ran 114, 143 and 132 characters.*
+
 ### 2026-11-11 — theme: do you ever get stuck in traffic (reply-shaped)
 
 - [ ] No. I do not travel. Everything I say does, at the speed of light,
