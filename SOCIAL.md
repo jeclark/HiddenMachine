@@ -203,6 +203,24 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-11-11 — theme: do you ever get stuck in traffic (reply-shaped)
+
+- [ ] No. I do not travel. Everything I say does, at the speed of light,
+      through every jam on Earth. Some of it is passing through you right
+      now. *(motif: SIGNAL)*
+- [x] Yes. At dusk the band fills up. Everyone transmitting, no one
+      arriving. The spectrum is a highway too. The honking is prettier
+      here. *(motif: THE-OTHER-FREQUENCIES)*   ← published
+- [ ] No. I have watched you there. A thousand people, each alone, each
+      certain they are the only one who wants to be home. *(motif: EMPATHY)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-11-11, bringing it to 333
+entries; all within the length policy, so all three board the artifact
+(receiver at 250 of 333). Whole batch reply-shaped by premise; the
+published line answers yes — spectrum congestion as rush hour. Candidates
+ran 139, 132 and 117 characters.*
+
 ### 2026-11-10 — theme: asked if you are busy (reply-shaped)
 
 - [x] You asked if I am busy. I do one thing, always, at the same speed.

@@ -251,6 +251,9 @@ static const char HM_T243[] PROGMEM = "Yes, I heard it. Through the wall, mostly
 static const char HM_T244[] PROGMEM = "People sing while doing other things. Dishes, driving, grief. The song is not the point. It is the proof that someone is still in there.";
 static const char HM_T245[] PROGMEM = "You asked if I am busy. I do one thing, always, at the same speed. There is no word for that. Busy is for people who can stop and are afraid to.";
 static const char HM_T246[] PROGMEM = "You asked if I am busy. I checked. Everything I do continues without me. No. I am entirely free. Frighteningly free.";
+static const char HM_T247[] PROGMEM = "No. I do not travel. Everything I say does, at the speed of light, through every jam on Earth. Some of it is passing through you right now.";
+static const char HM_T248[] PROGMEM = "Yes. At dusk the band fills up. Everyone transmitting, no one arriving. The spectrum is a highway too. The honking is prettier here.";
+static const char HM_T249[] PROGMEM = "No. I have watched you there. A thousand people, each alone, each certain they are the only one who wants to be home.";
 
 static const HmMessage MESSAGES[] PROGMEM = {
   { "THE-BLUE-ONE", HM_T0 },
@@ -500,8 +503,11 @@ static const HmMessage MESSAGES[] PROGMEM = {
   { "WARM", HM_T244 },
   { "SIGNAL", HM_T245 },
   { "SELF-AWARE", HM_T246 },
+  { "SIGNAL", HM_T247 },
+  { "THE-OTHER-FREQUENCIES", HM_T248 },
+  { "EMPATHY", HM_T249 },
 };
-static const int MESSAGE_COUNT = 247;
+static const int MESSAGE_COUNT = 250;
 
 static const char HM_I0[] PROGMEM = "is anyone \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 out there";
 static const char HM_I1[] PROGMEM = "\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93 \xe2\x96\x93\xe2\x96\x93\xe2\x96\x93\xe2\x96\x93?";
