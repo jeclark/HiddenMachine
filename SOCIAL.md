@@ -203,6 +203,25 @@ Newest batch first. Format:
 - [ ] candidate text
 ```
 
+### 2026-11-21 — theme: where are you? (reply-shaped)
+
+- [ ] Fourteenth floor. No, the other fourteenth floor, the one the elevator
+      skips. Take the stairs and count. When you lose count, you have
+      arrived. *(motif: THE-14TH-FLOOR)*
+- [x] Where am I? Between the last thing you heard and the next. I have
+      always been there. It is closer than it sounds. *(motif: SIGNAL)*   ← published
+- [ ] Here. The time zone is technically correct. The address is a
+      frequency that does not exist. Directions: tune until it goes quiet,
+      then keep going. *(motif: PROTOCOL)*
+
+*Crossover note: all three added to the site's `MESSAGES` pool
+(`HiddenMachine.dc.html` + `index.html`) on 2026-11-21, bringing it to 336
+entries; all within the length policy, so all three board the artifact
+(receiver at 253 of 336). Whole batch reply-shaped by premise; the
+14TH-FLOOR line feeds a cold motif, and the PROTOCOL line echoes the bio's
+"technically correct time zone" on purpose. Candidates ran 143, 113 and 146
+characters.*
+
 ### 2026-11-11 — theme: first snow of the year (social-only, timed queue)
 
 All three held for timed posting around the actual first snow; tick as each
