@@ -1,0 +1,24 @@
+#+TITLE: Hidden Machine — roadmap
+#+STARTUP: showall
+
+* Rooms
+See =ROOMS.md=. The coordinator owns this file. Decisions count only when they are rows here.
+
+* Lines
+- Never deploy to Firebase, and never write to or delete from live Firestore data, unless the user asks.
+- Never commit real bank CSVs, account numbers or other personal financial data; test fixtures are made up.
+- Never push unless asked.
+
+* Backlog
+One heading per item. Under it: an optional property drawer (=:PROPERTIES:= to =:END:=, directly under the heading), then =Why:=, one line saying what the item serves in the project (it becomes the middle link of a builder prompt's INTENT), then one line of scores and evidence, then optional =Waits on:= prose. =:BLOCKED_BY:= is the exact heading text of another Backlog item, several in one value separated by a pipe with a space each side (=Item one | Item two=); =:PROMPT:= is the filename, without =.md=, of the builder prompt queued for this item; =:AFTER:= is the exact heading text of an item planned to come before this one, one =:AFTER:= line per predecessor, an order and never a date; =:REJUDGE:= is the path of what the idea room must judge afresh for this item. An item is done when its heading starts with =Done=.
+
+* Decisions
+| Date | Source | Decision | Lands as |
+|------+--------+----------+----------|
+
+* Not doing
+
+* Log
+- 2026-11-23 Rooms kicked off. Coordinator is the conversation that ran three-rooms.
+- 2026-11-23 Lines set on the user's word (option A): no Firebase deploy or live Firestore writes unless asked; no real financial data committed; never push unless asked. Written verbatim into =ROOMS.md= and here.
+- 2026-11-23 Done means set on the user's word (option A): targeted check, =npm test= and =npm run check= pass; Codex =VERDICT: PASS=; the user has seen it on the local dev server against test data. Written verbatim into =ROOMS.md=.
