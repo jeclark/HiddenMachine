@@ -5,7 +5,11 @@
 See =ROOMS.md=. The coordinator owns this file. Decisions count only when they are rows here.
 
 * Lines
-Undefined: this project's Lines are not decided yet. This project's coordinator sets them, in its first conversation, once there is enough project to talk about; the coordinator then writes them into the Lines of both `ROOMS.md` and `ROADMAP.org`, verbatim.
+1. Nothing is pushed unless the user asks.
+2. Rooms never post to social accounts or publish anything outside the repo. Social posts, card drops and engraving files are only queued or prepared, and the user publishes them.
+3. Every new transmission follows `PHRASES.md`: the voice is never threatening, the joke or the dread is never explained, and the caller's history stays consistent.
+4. Every change to the phrase list lands everywhere it lives: `HiddenMachine.dc.html` and `index.html` together, `PHRASE-POOL.md` regenerated, and the receiver assets regenerated from `dc.html`.
+5. The station stays one self-contained static page: no build step, no analytics or trackers, and no calls to outside servers.
 
 * Backlog
 One heading per item. Under it: an optional property drawer (=:PROPERTIES:= to =:END:=, directly under the heading), then =Why:=, one line saying what the item serves in the project (it becomes the middle link of a builder prompt's INTENT), then one line of scores and evidence, then optional =Waits on:= prose. =:BLOCKED_BY:= is the exact heading text of another Backlog item, several in one value separated by a pipe with a space each side (=Item one | Item two=); =:PROMPT:= is the filename, without =.md=, of the builder prompt queued for this item; =:AFTER:= is the exact heading text of an item planned to come before this one, one =:AFTER:= line per predecessor, an order and never a date; =:REJUDGE:= is the path of what the idea room must judge afresh for this item. An item is done when its heading starts with =Done=.
@@ -19,3 +23,4 @@ One heading per item. Under it: an optional property drawer (=:PROPERTIES:= to =
 * Log
 - 2026-11-23 Rooms kicked off. Coordinator is the conversation that ran three-rooms.
 - 2026-11-23 Tracker created: https://claude.ai/artifact/FaR8rUCjdiAE8nFyjLFhCg (project-tracker skill, seeded from this file; one phase, On air, until the coordinator sets real ones).
+- 2026-11-23 Lines set: five, on the user's yes in the coordinator conversation; written verbatim into =ROOMS.md= and this file.

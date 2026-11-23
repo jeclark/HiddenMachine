@@ -20,7 +20,11 @@ Each room's job, what it writes and what it reads are in its own file in `rooms/
 
 Never cross these. Any report or idea that would cross one says so in its first paragraph, naming the line, before anything else.
 
-Undefined: this project's Lines are not decided yet. This project's coordinator sets them, in its first conversation, once there is enough project to talk about; the coordinator then writes them into the Lines of both `ROOMS.md` and `ROADMAP.org`, verbatim.
+1. Nothing is pushed unless the user asks.
+2. Rooms never post to social accounts or publish anything outside the repo. Social posts, card drops and engraving files are only queued or prepared, and the user publishes them.
+3. Every new transmission follows `PHRASES.md`: the voice is never threatening, the joke or the dread is never explained, and the caller's history stays consistent.
+4. Every change to the phrase list lands everywhere it lives: `HiddenMachine.dc.html` and `index.html` together, `PHRASE-POOL.md` regenerated, and the receiver assets regenerated from `dc.html`.
+5. The station stays one self-contained static page: no build step, no analytics or trackers, and no calls to outside servers.
 
 ## Done means
 
