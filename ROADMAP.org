@@ -24,3 +24,4 @@ One heading per item. Under it: an optional property drawer (=:PROPERTIES:= to =
 - 2026-11-23 Rooms kicked off. Coordinator is the conversation that ran three-rooms.
 - 2026-11-23 Tracker created: https://claude.ai/artifact/FaR8rUCjdiAE8nFyjLFhCg (project-tracker skill, seeded from this file; one phase, On air, until the coordinator sets real ones).
 - 2026-11-23 Lines set: five, on the user's yes in the coordinator conversation; written verbatim into =ROOMS.md= and this file.
+- 2026-11-23 Done means set, on the user's yes in the coordinator conversation; written verbatim into =ROOMS.md=.

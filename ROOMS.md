@@ -28,7 +28,7 @@ Never cross these. Any report or idea that would cross one says so in its first 
 
 ## Done means
 
-Undefined: what done means for this project is not decided yet. This project's coordinator sets it, in its first conversation, once there is enough project to talk about; the coordinator then writes it here, verbatim.
+A change is done when it is committed on `main`; for phrase-list changes, the counts in `HiddenMachine.dc.html`, `index.html`, `PHRASE-POOL.md` and the receiver assets all match; and the user has seen it live, either on hiddenmachine.com or, for receiver work, on the device.
 
 ## Flow
 
