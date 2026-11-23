@@ -20,13 +20,11 @@ Each room's job, what it writes and what it reads are in its own file in `rooms/
 
 Never cross these. Any report or idea that would cross one says so in its first paragraph, naming the line, before anything else.
 
-- Never deploy to Firebase, and never write to or delete from live Firestore data, unless the user asks.
-- Never commit real bank CSVs, account numbers or other personal financial data; test fixtures are made up.
-- Never push unless asked.
+Undefined: this project's Lines are not decided yet. This project's coordinator sets them, in its first conversation, once there is enough project to talk about; the coordinator then writes them into the Lines of both `ROOMS.md` and `ROADMAP.org`, verbatim.
 
 ## Done means
 
-An item is done when the builder's targeted check, `npm test` and `npm run check` all pass; the read-only verifier (Codex) returns `VERDICT: PASS`; and the user has seen it working in the app on the local dev server, against test data, not live Firestore.
+Undefined: what done means for this project is not decided yet. This project's coordinator sets it, in its first conversation, once there is enough project to talk about; the coordinator then writes it here, verbatim.
 
 ## Flow
 
@@ -49,3 +47,5 @@ Then each room reads its own file in `rooms/`, whose Read at start lists the res
 A journal command (`/j:start`, `/j:log`, `/j:end`) may write this project's own journal folder and its TOC file, whoever runs it, rooms included. It is the command's exception, not a licence to hand-edit those files, and it reaches nothing else under the org root; where a Line keeps rooms out of the org root, this is that Line's standing exception.
 
 One question at a time, in chat, never the widget. The one exception: a room with 4 or more questions for the user at once writes them as a question set per `spec/question-set.org` in `bpjohnson/mabel`, in `<room root>/questions/<room>/`, and stops; on "Answers are in" it reads the answers file and carries on. Fewer than 4 stay one at a time in chat. Judgment calls are the user's; the rooms recommend. Every claim about state names its evidence: a commit, a harness line, a file path. Recommendations use S/A/B/C/D/F tier tables with an Overall column. Markdown, one paragraph per line, no hard wraps. No due or scheduled dates. Prefer the boring version. No marketing language. Nothing is done until the harness says so and the user has seen it.
+
+Tracker: https://claude.ai/artifact/FaR8rUCjdiAE8nFyjLFhCg. The coordinator updates it; it is a view of ROADMAP.org, never the record.
