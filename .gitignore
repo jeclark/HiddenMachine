@@ -3,3 +3,4 @@ PHRASE-POOL.md
 .DS_Store
 __pycache__/
 receiver/.pio/
+.claude
